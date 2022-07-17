@@ -1,0 +1,17 @@
+{
+    "total_bodies": 1076,
+    "total_wow_factors": {
+        "Zero": 5,
+        "One": 17,
+        "Two": 5,
+        "Three": 17,
+        "Four": 19,
+        "Five": 45,
+        "Six": 97,
+        "Seven": 146,
+        "Eight": 304,
+        "Nine": 381,
+        "Ten": 40,
+        "Other": 0
+    }
+}
