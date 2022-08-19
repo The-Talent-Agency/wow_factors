@@ -1,17 +1,18 @@
 {
-    "total_bodies": 1076,
+    "total_bodies": 1107,
+    "total_exclusive": 30,
     "total_wow_factors": {
-        "Zero": 5,
+        "Zero": 36,
         "One": 17,
         "Two": 5,
-        "Three": 17,
+        "Three": 24,
         "Four": 19,
-        "Five": 45,
+        "Five": 46,
         "Six": 97,
-        "Seven": 146,
-        "Eight": 304,
-        "Nine": 381,
-        "Ten": 40,
+        "Seven": 147,
+        "Eight": 318,
+        "Nine": 392,
+        "Ten": 44,
         "Other": 0
     }
 }
