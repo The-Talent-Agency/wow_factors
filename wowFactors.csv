@@ -1,1108 +1,1126 @@
-egg_name,name,wow_factor,exclusive
-Orca,Otherworldly Egg,4,False
-Sleet Bat,Winterborn Egg,6,False
-Sleet Bat,Winterborn Egg,6,False
-Midnight Cat,Necromantic Egg,8,False
-Midnight Cat,Necromantic Egg,8,False
-Charrlossus,Pyromantic Egg,10,False
-Towering Inferno,Pyromantic Egg,10,False
-Coal Colossus,Pyromantic Egg,10,False
-Big Chill,Frost Shelled Egg,8,False
-Frigorific Colossus,Frost Shelled Egg,8,False
-Winter Walker,Frost Shelled Egg,8,False
-Winter Walker,Frost Shelled Egg,8,False
-Lively Colossus,Frost Shelled Egg,8,False
-Stratus Colossus,Maelstrom Egg,10,False
-Hurricolossus,Maelstrom Egg,10,False
-Harmonic Cyclops,Symmetrical Egg,5,False
-Eyequilibriops,Symmetrical Egg,5,False
-Cryptclops,Frost Shelled Egg,8,False
-Death Gazer,Necromantic Egg,8,False
-Springclops,Jade Egg,9,False
-Soulclops,Jade Egg,9,False
-Woebegone Draconian,Necromantic Egg,10,False
-Emberwing,Pyromantic Egg,10,False
-Soulful Draconian,Lifebloom Egg,10,False
-Vernal Draconian,Lifebloom Egg,10,False
-Leafwing,Lifebloom Egg,10,False
-Fabled Draconian,Chimerical Egg,10,False
-Fablewing,Chimerical Egg,10,False
-Cryo Elf,Winterborn Egg,8,False
-Sleet Elf,Winterborn Egg,8,False
-Catersquall,Mysterious Egg,8,False
-Catersquall,Mysterious Egg,8,False
-Sprite of Life,Jade Egg,5,False
-Electric Elf,Stormsquall Egg,5,False
-Nimbus Elf,Stormsquall Egg,5,False
-Fiesty Fire Elf,Pyromantic Egg,8,False
-Pyre Elf,Pyromantic Egg,8,False
-Feisty Fire Kitten,Onyx Egg,8,False
-Fierce Fire Kitten,Equilibrium Egg,8,False
-Fervid Fire Kitten,Lifebloom Egg,8,False
-Clever Cogs,Otherworldly Egg,7,False
-Clever Cogs,Otherworldly Egg,7,False
-Balance Hamster,Equilibrium Egg,9,True
-Death Class Pet,Transcendental Egg,9,True
-Death Class Pet,Transcendental Egg,9,True
-Fire Class Pet,Pyromantic Egg,9,True
-Fire Class Pet,Pyromantic Egg,9,True
-Ice Class Pet,Frostshelled Egg,9,True
-Ice Class Pet,Frostshelled Egg,9,True
-Life Hamster,Jade Egg,9,True
-Myth Class Pet,Radiant Egg,9,True
-Myth Class Pet,Radiant Egg,9,True
-Storm Hamster,Maelstrom Egg,9,True
-Ravenwood Hamster,Lovely Egg,7,True
-Yokai,Pyromantic Egg,8,False
-Yokai,Pyromantic Egg,8,False
-Hale Hydra,Symmetrical Egg,8,False
-Hale Hydra,Symmetrical Egg,8,False
-Vexing Imp,Enigmatic Egg,7,False
-Vexing Imp,Enigmatic Egg,7,False
-Krok of Ages,Otherworldly Egg,7,False
-Scaled Krok,Scruffy Egg,7,False
-Cool Krok,Winterborn Egg,6,False
-Frigid Krokomummy,Winterborn Egg,9,False
-Chill Krokomummy,Winterborn Egg,6,False
-Thunder Krok,Maelstrom Egg,8,False
-Shockodile,Maelstrom Egg,8,False
-Burnotaur,Pyromantic Egg,9,False
-Mythotaur,Evanescent Egg,9,False
-Cowmera,Evanescent Egg,9,False
-Parabull,Evanescent Egg,9,False
-Rancid Ninja Pig,Otherworldly Egg,9,False
-Necroninja,Necromantic Egg,9,False
-Necrotic Ninja Pig,Necromantic Egg,9,False
-Crispy Ninja Pig,Pyromantic Egg,9,False
-Roasted Ninja Pig,Pyromantic Egg,9,False
-Infernal Ninja Pig,Pyromantic Egg,9,False
-Charred Ninja,Pyromantic Egg,9,False
-Pork Ranger,Jade Egg,9,False
-Thunder Ham,Maelstrom Egg,8,False
-Fellhound,Chimerical Egg,8,False
-Fellhound,Chimerical Egg,8,False
-Adventurous Racoon,Enigmatic Egg,8,False
-Intrepid Racoon,Pyromantic Egg,8,False
-Able Racoon,Maelstrom Egg,8,False
-Thunder Rat,Maelstrom Egg,8,False
-Grim Squeaker,Otherworldly Egg,8,False
-Ratscallion,Evanescent Egg,8,False
-Sylvan Satyr,Jade Egg,8,False
-Sylvan Satyr,Jade Egg,8,False
-Emerald Beetle,Otherworldly Egg,5,False
-Emerald Beetle,Otherworldly Egg,5,False
-Cinder Serpent,Otherworldly Egg,8,False
-Cinder Serpent,Otherworldly Egg,8,False
-Fair-E,Symmetrical Egg,5,False
-Pairity Fairy,Symmetrical Egg,5,False
-Poised Pixie,Symmetrical Egg,5,False
-Cemetary Fairy,Otherworldly Egg,5,False
-Flurry Fairy,Frost Shelled Egg,5,False
-Book Fairy,Enigmatic Egg,7,False
-Scary Fairy,Evanescent Egg,5,False
-Merry Fairy,Lifebloom Egg,5,False
-Thundersaurus Rex,Maelstrom Egg,8,False
-Thundersaurus Rex,Maelstrom Egg,8,False
-Harmonic Howler,Symmetrical Egg,5,False
-Bonechiller,Winterborn Egg,5,False
-Tundra Howler,Winterborn Egg,5,False
-Fabled Howler,Jade Egg,9,False
-Phantasm,Necromantic Egg,8,False
-Phantasm,Necromantic Egg,8,False
-Arcane Helpers,Maelstrom Egg,9,False
-Armordillo,Equilibrium Egg,8,False
-Rockin' Roller,Onyx Egg,8,False
-Stained Glass Roller,Evanescent Egg,8,False
-Reanimated Fossil,Symmetrical Egg,8,False
-Charred Fossil,Pyromantic Egg,8,False
-Crystalline Fossil,Winterborn Egg,8,False
-Babydactyl,Maelstrom Egg,8,False
-Deathdactyl,Necromantic Egg,8,False
-Mythdactyl,Otherworldly Egg,8,False
-Lifedactyl,Radiant Egg,8,False
-Icedactyl,Winterborn Egg,8,False
-Dragonfly,Jade Egg,7,False
-Pegasus Pony,Otherworldly Egg,8,False
-Intrepid Seal Pup,Pyromantic Egg,8,False
-Cunning Seal Pup,Enigmatic Egg,8,False
-Playful Seal Pup,Maelstrom Egg,8,False
-Wildwood Yeti,Mysterious Egg,8,False
-Mountain Yeti,Winterborn Egg,8,False
-Timberland Yeti,Lifebloom Egg,8,False
-Blue Banshee,Mysterious Egg,4,False
-Boss Banshee,Mysterious Egg,7,False
-Life Banshee,Evanescent Egg,4,False
-Myth Banshee,Otherworldly Egg,6,False
-Red Banshee,Mysterious Egg,7,False
-Spellwrit Screamer,Spellwrit Egg,2,False
-Mythical Basilisk,Mysterious Egg,9,False
-Desert Basilisk,Chimerical Egg,9,False
-Void Basilisk,Necromantic Egg,9,False
-Tundra Basilisk,Frost Shelled Egg,9,False
-Forest Basilisk,Jade Egg,9,False
-Cyclone Basilisk,Mysterious Egg,9,False
-Snake in a Basket,Mysterious Egg,9,False
-Viper in a Jar,Mysterious Egg,9,False
-Fang Bat,Mysterious Egg,6,False
-Bloodbat,Equilibrium Egg,1,False
-Firebat,Evanescent Egg,6,False
-Icebat,Winterborn Egg,6,False
-Lightningbat,Maelstrom Egg,2,False
-Stormbat,Evanescent Egg,4,False
-Betta Fish,Enigmatic Egg,8,False
-Black Cat,Necromantic Egg,8,False
-Deathbat,Mysterious Egg,7,False
-Lifebat,Mysterious Egg,7,False
-Dutiful Bloodbat,Radiant Egg,1,False
-Bloodwing,Pyromantic Egg,1,False
-Resolute Bloodbat,Equilibrium Egg,1,False
-Frosty Fish,Frost Shelled Egg,6,False
-Grizzley Boar,Evanescent Egg,3,False
-Boar Knight,Symmetrical Egg,7,False
-Striped Boar,Pyromantic Egg,4,False
-Bone Dragon,Necromantic Egg,9,False
-Magma Dragon,Radiant Egg,9,False
-Glacier Dragon,Frost Shelled Egg,9,False
-Night Hawk,Stormsquall Egg,9,False
-Dread Grimoire,Chimerical Egg,9,False
-Dusty Grimoire,Chimerical Egg,9,False
-Forgotten Grimoire,Necromantic Egg,9,False
-Ygor's Grimoire,Mysterious Egg,9,False
-Incendiary Grimoire,Pyromantic Egg,9,False
-Verglas Grimoire,Winterborn Egg,9,False
-Rooted  Grimoire,Lifebloom Egg,9,False
-Fabled Grimoire,Otherworldly Egg,9,False
-Whirlwind Grimoire,Maelstrom Egg,9,False
-Borealis Golem,Shivering Egg,7,False
-Ember Golem,Shivering Egg,7,False
-Arcane Golem,Shivering Egg,7,False
-Bronze Golem,Evanescent Egg,9,False
-Raging Bull,Hot Egg,7,False
-Gallant Bull,Hot Egg,7,False
-Courageous Bull,Hot Egg,7,False
-Charging Bull,Hot Egg,7,False
-Bumble Bee,Lifebloom Egg,8,False
-Snowhoppers,Enigmatic Egg,0,False
-Holiday Hoppers,Enigmatic Egg,0,False
-Bunny Mallow,Enigmatic Egg,9,False
-Bunny Mallow,Enigmatic Egg,9,False
-Burlap Boy,Jade Egg,7,False
-Harmonious Baaterfly,Symmetrical Egg,7,False
-Dreamy Baaterfly,Mysterious Egg,7,False
-Energetic Baaterfly,Maelstrom Egg,7,False
-Yellow Cactus Hopper,Jade Egg,5,False
-Pink Cactus Hopper,Jade Egg,5,False
-Red Cactus Hopper,Jade Egg,5,False
-Cat Thug,Symmetrical Egg,2,False
-Blue Cat Thug,Otherworldly Egg,4,False
-Green Cat Thug,Jade Egg,6,False
-Muscled Cat,Chimerical Egg,6,False
-Chameleon,Equilibrium Egg,6,False
-Cave Chameleon,Equilibrium Egg,6,False
-Battle Cherub,Otherworldly Egg,8,False
-Chimera,Otherworldly Egg,9,False
-Oblivion Chimera,Necromantic Egg,9,False
-Infernal Chimera,Radiant Egg,9,False
-Tempest Chimera,Mysterious Egg,9,False
-Frostman,Frost Shelled Egg,8,False
-Christmas Elf,Winterborn Egg,8,False
-Clockwork Paladin,Otherworldly Egg,10,False
-Mechanical Owl,Pyromantic Egg,9,False
-Rain Core,Stormy Egg,7,False
-Acid Rain Core,Stormy Egg,7,False
-Freezing Rain Core,Stormy Egg,7,False
-Lump of Coal,Pyromantic Egg,9,False
-Snake in a Basket,Mysterious Egg,9,False
-Copper Colossus,Jade Egg,8,False
-Earth Elemental,Winterborn Egg,9,False
-Ice Colossus,Frost Shelled Egg,8,False
-Magma Colossus,Pyromantic Egg,10,False
-Inferno Colossus,Winterborn Egg,9,False
-Darkwalker,Winterborn Egg,9,False
-Fatesealer,Winterborn Egg,9,False
-Sandman,Winterborn Egg,9,False
-Spellwrit Stalker,Spellwrit Egg,8,False
-Spirit of Nature,Evanescent Egg,8,False
-Silver Colossus,Symmetrical Egg,5,False
-Stone Colossus,Equilibrium Egg,6,False
-Stormwarden,Winterborn Egg,9,False
-Storm Colossus,Maelstrom Egg,7,False
-Rain Colossus,Stormsquall Egg,7,False
-Bolt Colossus,Maelstrom Egg,7,False
-Shock Colossus,Stormsquall Egg,7,False
-Thunder Colossus,Stormsquall Egg,9,False
-Blast Colossus,Stormsquall Egg,9,False
-Spark Colossus,Stormsquall Egg,9,False
-Cloud Colossus,Stormsquall Egg,9,False
-Earth Walker,Enigmatic Egg,9,False
-Dapper Corgi,Pyromantic Egg,7,False
-Party Corgi,Mysterious Egg,7,False
-Dignified Crabling,Equilibrium Egg,8,False
-Grave Crabling,Onyx Egg,8,False
-Fervid Crabling,Equilibrium Egg,8,False
-Crabling,Equilibrium Egg,8,False
-Hearty Crabling,Lifebloom Egg,8,False
-Clever Crabling,Chimerical Egg,8,False
-Pesky Beetle,Onyx Egg,8,False
-Crystal Butterfly,Equilibrium Egg,8,False
-Cyclops,Enigmatic Egg,6,False
-Blue Cyclops,Winterborn Egg,3,False
-Death Cyclops,Otherworldly Egg,8,False
-Life Cyclops,Jade Egg,9,False
-Viridian Cyclops,Jade Egg,9,False
-Forest Cyclops,Jade Egg,9,False
-Hulking Cyclops,Jade Egg,9,False
-Emerald Cyclops,Jade Egg,9,False
-Timber Cyclops,Jade Egg,9,False
-Wildwood Cyclops,Jade Egg,9,False
-Sage Cyclops,Jade Egg,9,False
-Dread Grimoire,Chimerical Egg,9,False
-Charred Grimhorn,Radiant Egg,8,False
-Drowned Grimhorn,Maelstrom Egg,8,False
-Frostbound Grimhorn,Frost Shelled Egg,7,False
-Deer Knight,Otherworldly Egg,9,False
-Fiery Death Knight,Otherworldly Egg,9,False
-Great Horned Knight,Equilibrium Egg,9,False
-Hartlancer,Chimerical Egg,8,False
-Horned Brocket,Radiant Egg,9,False
-Mythical Brocket,Radiant Egg,9,False
-Placeholder,Jade Egg,8,False
-Mythic Lancer,Mysterious Egg,9,False
-Fiery Charger,Radiant Egg,9,False
-Icy Charger,Winterborn Egg,9,False
-Shardtail Dragon,Frost Shelled Egg,7,False
-Fragmented Dragon,Frost Shelled Egg,7,False
-Pioneer Dragon,Radiant Egg,10,False
-Frontier Dragon,Radiant Egg,10,False
-Buddy Dragon,Lifebloom Egg,5,False
-Vigilant Dragon,Frost Shelled Egg,9,False
-Utility Dragon,Chimerical Egg,9,False
-Assailing Dragon,Pyromantic Egg,9,False
-Friendly Dragon,Jade Egg,8,False
-Coldfire Dragon,Mysterious Egg,7,False
-Power Dragon,Chimerical Egg,7,False
-Sturdy Dragon,Enigmatic Egg,7,False
-Magical Dragon,Chimerical Egg,7,False
-Guardian Dragon,Enigmatic Egg,7,False
-Blue Dragon,Winterborn Egg,7,False
-Royal Dragon,Frost Shelled Egg,7,False
-Azure Dragon,Winterborn Egg,7,False
-Indigo Dragon,Frost Shelled Egg,7,False
-Fun Dragon,Lifebloom Egg,8,False
-Toy Dragon,Jade Egg,8,False
-Sporty Dragon,Lifebloom Egg,8,False
-Nice Dragon,Jade Egg,8,False
-Tricky Dragon,Jade Egg,9,False
-Aqua Dragon,Frost Shelled Egg,9,False
-Spiritual Dragon,Enigmatic Egg,9,False
-Daring Dragon,Jade Egg,9,False
-Armor Dragon,Frost Shelled Egg,9,False
-Defender Dragon,Enigmatic Egg,9,False
-Bold Dragon,Jade Egg,9,False
-Cerulean Dragon,Frost Shelled Egg,9,False
-Revered Dragon,Enigmatic Egg,9,False
-Divine Dragon,Enigmatic Egg,9,False
-Turquoise Dragon,Frost Shelled Egg,9,False
-Dynamic Dragon,Jade Egg,9,False
-Ghost Dragon,Otherworldly Egg,10,False
-Penumbra Drake,Otherworldly Egg,10,False
-Dragon of Kings,Lifebloom Egg,8,False
-Detolli's Dragon,Mysterious Egg,10,False
-Foxy Dragon,Chimerical Egg,7,False
-Summer Dragon,Pyromantic Egg,4,False
-Rotting Dryad,Necromantic Egg,8,False
-Burning Dryad,Pyromantic Egg,8,False
-Windswept Dryad,Stormsquall Egg,8,False
-Beastmaster's Eagle,Mysterious Egg,9,False
-Efreet,Radiant Egg,9,False
-Jinn,Frost Shelled Egg,9,False
-Genie,Otherworldly Egg,9,False
-Marid,Stormsquall Egg,9,False
-Pet Egg,Mysterious Egg,7,False
-Egg Chick,Mysterious Egg,7,False
-Egg Chick,Mysterious Egg,7,False
-Baba Yaga's Egg,Mysterious Egg,7,False
-Chameleon,Equilibrium Egg,6,False
-Grumpy Snowman,Evanescent Egg,7,False
-Evil Snowman,Otherworldly Egg,4,False
-Fire Snowman,Pyromantic Egg,8,False
-Evil Sandman,Otherworldly Egg,8,False
-Storm Snowman,Otherworldly Egg,6,False
-Wandering Eye,Blinking Egg,7,False
-Gloomy Eye,Blinking Egg,7,False
-Frosty Eye,Blinking Egg,7,False
-Eyebendito,Lifebloom Egg,7,False
-Eyediache,Symmetrical Egg,9,False
-Eyecaramba,Necromantic Egg,7,False
-Fennec Fox,Enigmatic Egg,9,False
-Inferno Cat,Mysterious Egg,6,False
-Firecat,Radiant Egg,1,False
-Ice Cat,Frost Shelled Egg,3,False
-Frozen Cat,Winterborn Egg,8,False
-Glacier Cat,Frost Shelled Egg,8,False
-Frost Cat,Winterborn Egg,8,False
-Arctic Cat,Frost Shelled Egg,8,False
-Polar Cat,Frost Shelled Egg,9,False
-Snowy Cat,Frost Shelled Egg,9,False
-Blizzard Cat,Frost Shelled Egg,9,False
-Cool Cat,Frost Shelled Egg,9,False
-Storm Cat,Mysterious Egg,8,False
-Decade Firecat,Radiant Egg,9,False
-Firecat,Radiant Egg,1,False
-Fire Elf,Radiant Egg,6,False
-Ice Elf,Winterborn Egg,7,False
-Storm Elf,Stormsquall Egg,5,False
-Yellow Elf,Radiant Egg,3,False
-Flamenco del Muerto,Onyx Egg,9,False
-Flamenco Cantador,Evanescent Egg,7,False
-Flamenco Tocador,Equilibrium Egg,6,False
-Flamenco Bailador,Lifebloom Egg,6,False
-Winged Catastrophe,Necromantic Egg,7,False
-Meow Wing,Chimerical Egg,7,False
-Flying Squirrel,Symmetrical Egg,7,False
-Fiendish Foo Dog,Necromantic Egg,9,False
-Elemental Foo Dog,Mysterious Egg,9,False
-Imperial Foo Dog,Chimerical Egg,9,False
-Guardian Foo Dog,Otherworldly Egg,9,False
-Lavender Foo Dog,Stormsquall Egg,9,False
-Sunfire Foo Dog,Radiant Egg,9,False
-Forest Lord,Jade Egg,9,False
-Inferno Beast,Radiant Egg,9,False
-Wendigo,Chimerical Egg,9,False
-Cloud Beast,Maelstrom Egg,9,False
-Spirit of the Forest,Equilibrium Egg,9,False
-Frankenbunny,Stormsquall Egg,7,False
-Frankie Forearms,Symmetrical Egg,10,True
-Frilled Lizard,Frost Shelled Egg,7,False
-Frog,Enigmatic Egg,3,False
-Brainy Assistant,Enigmatic Egg,8,False
-Frost Beetle,Winterborn Egg,6,False
-Fire Beetle,Radiant Egg,6,False
-Rain Beetle,Stormsquall Egg,9,False
-Storm Beetle,Maelstrom Egg,9,False
-Gargoyle,Onyx Egg,7,False
-Beguiled Gargoyle,Mysterious Egg,10,False
-Decade Gargoyle,Onyx Egg,9,False
-Blue Ghost,Otherworldly Egg,5,False
-Pale Maiden,Necromantic Egg,8,False
-Green Ghost,Otherworldly Egg,6,False
-Red Ghost,Necromantic Egg,9,False
-Yellow Ghost,Mysterious Egg,5,False
-Ghoul,Evanescent Egg,4,False
-Dire Ghoul,Otherworldly Egg,7,False
-Ghulture,Mysterious Egg,7,False
-Enigmatic Ghulture,Mysterious Egg,7,False
-Clamoring Ghulture,Mysterious Egg,7,False
-Zombie,Evanescent Egg,8,False
-Dream Ghoul,Otherworldly Egg,6,False
-Meowiarty's Ghoul,Mysterious Egg,6,False
-Life Ghoul,Lifebloom Egg,6,False
-Myth Ghoul,Mysterious Egg,5,False
-Giraffe,Lifebloom Egg,9,False
-Gnome,Jade Egg,9,False
-Desert Gnome,Chimerical Egg,9,False
-Graveyard Gnome,Necromantic Egg,9,False
-Fire Gnome,Radiant Egg,9,False
-Rain Gnome,Stormsquall Egg,9,False
-Goat Monk,Chimerical Egg,4,False
-Gruff Goat Monk,Onyx Egg,4,False
-Gob-O-Lantern,Lifebloom Egg,7,False
-Red Gobbler,Chimerical Egg,6,False
-GobblerBall,Chimerical Egg,6,False
-Golden Ram,Evanescent Egg,7,False
-Steel Golem,Equilibrium Egg,6,False
-Mister Incinerator,Equilibrium Egg,6,False
-Furnace Golem,Equilibrium Egg,6,False
-Coal Train,Equilibrium Egg,6,False
-Cinerator Golem,Equilibrium Egg,6,False
-Metalmaton,Equilibrium Egg,6,False
-Boiler Golem,Equilibrium Egg,6,False
-Old Sparky,Equilibrium Egg,6,False
-Fine Wood Golem,Mysterious Egg,7,False
-Wood Golem,Symmetrical Egg,3,False
-Brass Golem,Equilibrium Egg,3,False
-Clockwork Golem,Otherworldly Egg,7,False
-Golden Goose,Enigmatic Egg,6,False
-Harpy,Chimerical Egg,9,False
-Zeus's Harpy,Otherworldly Egg,9,False
-Friendship Oni,Chimerical Egg,4,False
-Heckhound,Pyromantic Egg,1,False
-Inferno Hound,Chimerical Egg,9,False
-Danger Hound,Radiant Egg,6,False
-Dark Hound,Otherworldly Egg,10,False
-Brave Hound,Mysterious Egg,9,False
-Fierce Hound,Necromantic Egg,9,False
-Safety Hound,Chimerical Egg,9,False
-Cautious Hound,Chimerical Egg,9,False
-Attentive Hound,Chimerical Egg,9,False
-Careful Hound,Chimerical Egg,9,False
-Watchful Hound,Chimerical Egg,9,False
-Alert Hound,Chimerical Egg,9,False
-Periwinkle Hound,Stormsquall Egg,9,False
-Amethyst Hound,Stormsquall Egg,9,False
-Amaranthine Hound,Stormsquall Egg,9,False
-Violet Hound,Stormsquall Egg,9,False
-Magenta Hound,Stormsquall Egg,9,False
-Ianthine Hound,Stormsquall Egg,9,False
-Prudent Hound,Chimerical Egg,9,False
-Mulberry Hound,Stormsquall Egg,9,False
-Tactical Hound,Chimerical Egg,9,False
-Heliotrope Hound,Stormsquall Egg,9,False
-Ghost Hound,Necromantic Egg,8,False
-Ice Hound,Mysterious Egg,1,False
-Storm Hound,Stormsquall Egg,9,False
-Helephant,Pyromantic Egg,8,False
-Death Oni,Radiant Egg,9,False
-Ice Oni,Radiant Egg,9,False
-Snoni,Winterborn Egg,9,False
-Forest Oni,Radiant Egg,9,False
-Bronze Helephant,Onyx Egg,9,False
-Plague Oni,Radiant Egg,9,False
-Maelstrom Oni,Radiant Egg,9,False
-Storm Demon,Stormsquall Egg,8,False
-Cloud Demon,Maelstrom Egg,8,False
-Shock Demon,Stormsquall Egg,8,False
-Rain Demon,Maelstrom Egg,8,False
-Damp Demon,Maelstrom Egg,9,False
-Bolt Demon,Maelstrom Egg,9,False
-Skyscream Demon,Maelstrom Egg,9,False
-Skyslash Demon,Maelstrom Egg,9,False
-War Oni,Radiant Egg,9,False
-Jade Oni,Chimerical Egg,8,False
-Rude Goblin,Mysterious Egg,7,False
-Hollow Knight,Frost Shelled Egg,9,False
-Boundless Knight,Mysterious Egg,9,False
-Vacant Knight,Necromantic Egg,9,False
-Melted Knight,Enigmatic Egg,7,False
-Shiverous Knight,Necromantic Egg,6,False
-Soulful Knight,Otherworldly Egg,10,False
-Ethereal Knight,Otherworldly Egg,8,False
-Vaporous Knight,Mysterious Egg,9,False
-Humongofrog,Chimerical Egg,9,False
-Gloom Toad,Necromantic Egg,9,False
-Flame Toad,Radiant Egg,9,False
-Frosthopper,Frost Shelled Egg,9,False
-Hydra,Symmetrical Egg,8,False
-Helion,Symmetrical Egg,9,False
-Creeper,Symmetrical Egg,9,False
-Basilisk,Symmetrical Egg,9,False
-Leviathan,Symmetrical Egg,9,False
-Royal Ibis,Equilibrium Egg,8,False
-Arctic Elf,Winterborn Egg,8,False
-Frigid Elf,Winterborn Egg,8,False
-Glacial Elf,Winterborn Egg,8,False
-Snow-covered Elf,Winterborn Egg,8,False
-Polar Elf,Winterborn Egg,8,False
-Wintry Elf,Winterborn Egg,8,False
-Blizzard Elf,Winterborn Egg,8,False
-Frostbite Elf,Winterborn Egg,8,False
-Greater Imp,Otherworldly Egg,7,False
-Imp,Lifebloom Egg,1,False
-Dark Imp,Evanescent Egg,5,False
-Myth Imp,Enigmatic Egg,7,False
-Jack O Lantern,Necromantic Egg,9,False
-Jellyfish,Necromantic Egg,8,False
-Pink Jellyfish,Maelstrom Egg,8,False
-Judgement,Symmetrical Egg,9,False
-Fiery Judge,Radiant Egg,9,False
-Astral Judge,Jade Egg,9,False
-Kookaburra,Scruffy Egg,7,False
-Noble Kookaburra,Scruffy Egg,7,False
-Ornery Kookaburra,Scruffy Egg,7,False
-Kraken,Maelstrom Egg,9,False
-Ice Kraken,Frost Shelled Egg,9,False
-Topaz Kraken,Chimerical Egg,9,False
-Krokomummy,Evanescent Egg,6,False
-Frosty Krokomummy,Winterborn Egg,6,False
-Furious Krokomummy,Evanescent Egg,6,False
-Krok,Symmetrical Egg,4,False
-Krokotillian,Evanescent Egg,8,False
-Meowiarty's Krok,Pyromantic Egg,4,False
-Ladybug,Lifebloom Egg,6,False
-Leopard,Pyromantic Egg,9,False
-Lovely Leopard,Lovely Egg,9,False
-Leprechaun,Otherworldly Egg,6,False
-Myth Leprechaun,Evanescent Egg,6,False
-Patriotic Leprechaun,Radiant Egg,8,False
-Lucky Leprechaun,Lifebloom Egg,8,False
-Death Leprechaun,Necromantic Egg,8,False
-Chaos Leviathan,Necromantic Egg,8,False
-Eternal Leviathan,Lifebloom Egg,8,False
-Dreaming Leviathan,Chimerical Egg,8,False
-Lion,Maelstrom Egg,9,False
-Lord of Autumn,Symmetrical Egg,8,False
-Lord of Summer,Pyromantic Egg,8,False
-Lord of Spring,Stormsquall Egg,8,False
-Lovely Ladybug,Lovely Egg,6,False
-MaCaw,Radiant Egg,8,False
-Polterpooch,Make a Wish Egg,8,False
-Mammoth,Frost Shelled Egg,9,False
-Desert Mammoth,Chimerical Egg,9,False
-Plains Mammoth,Jade Egg,9,False
-Poised Medusa,Symmetrical Egg,8,False
-Shivering Medusa,Winterborn Egg,8,False
-Fulminating Medusa,Stormsquall Egg,8,False
-Red Gobbler,Chimerical Egg,6,False
-Mini Mimic,Stormsquall Egg,9,False
-Obsidian Mimic,Onyx Egg,7,False
-Minotaur,Evanescent Egg,9,False
-Nightwalker,Onyx Egg,9,False
-Nightwalker,Mysterious Egg,3,False
-Life Minotaur,Evanescent Egg,7,False
-Shaolin Monkey,Mysterious Egg,9,False
-Sultan's Monkey,Mysterious Egg,9,False
-Brother Cheesiwitz,Frost-Shelled Egg,6,False
-Papa Cheesiwitz,Radiant Egg,6,False
-Mama Cheesiwitz,Evanescent Egg,6,False
-Sister Cheesiwitz,Chimerical Egg,6,False
-Mummy Cat,Onyx Egg,7,False
-Night Hawk,Stormsquall Egg,9,False
-Desert Hawk,Stormsquall Egg,9,False
-Ninja Pig,Equilibrium Egg,3,False
-Death Ninja,Evanescent Egg,8,False
-Ninja Piggle,Onyx Egg,1,False
-Arctic Ninja Pig,Frost Shelled Egg,9,False
-Plague Ninja,Onyx Egg,8,False
-Defender Pig,Lifebloom Egg,8,False
-Battle Pig,Onyx Egg,8,False
-Scout Pig,Radiant Egg,8,False
-War Pig,Pyromantic Egg,8,False
-Hero Pig,Radiant Egg,9,False
-Power Pig,Radiant Egg,9,False
-Premier Porker,Radiant Egg,9,False
-Pugilist Pig,Radiant Egg,9,False
-Shellnobi Warrior,Mysterious Egg,1,False
-Nutcracker,Winterborn Egg,9,False
-Opossum,Still Egg,7,False
-Ghastly Opossum,Still Egg,7,False
-Lively Opossum,Still Egg,7,False
-Origami Party Crane,Mysterious Egg,6,False
-Origami Cardinal,Jade Egg,1,False
-Origami Crane,Mysterious Egg,6,False
-Orthrus,Chimerical Egg,8,False
-Cerberus,Chimerical Egg,9,False
-Grimtooth,Chimerical Egg,9,False
-Frost Hound,Chimerical Egg,9,False
-Jade Hound,Chimerical Egg,9,False
-Tempest Hound,Chimerical Egg,9,False
-First Mate Otter,Stormsquall Egg,6,False
-Trendkill Pantera,Enigmatic Egg,7,False
-Panther,Onyx Egg,9,False
-Polar Fox,Mysterious Egg,8,False
-Blaze Fox,Mysterious Egg,8,False
-Proper Penguin,Frost Shelled Egg,8,False
-Phoenix,Radiant Egg,9,False
-Shadow Phoenix,Necromantic Egg,9,False
-Thunderbird,Maelstrom Egg,9,False
-Cupig,Lifebloom Egg,8,False
-Piggle,Enigmatic Egg,1,False
-Cheetah Piggle,Mysterious Egg,8,False
-Freckled Piggle,Mysterious Egg,8,False
-Speckled Piggle,Mysterious Egg,8,False
-Leopard Piggle,Mysterious Egg,8,False
-Spotted Piggle,Mysterious Egg,8,False
-Mottled Piggle,Mysterious Egg,8,False
-Dappled Piggle,Mysterious Egg,8,False
-Piebald Piggle,Mysterious Egg,8,False
-Dill Piggle,Jade Egg,9,False
-Happy Piggle,Jade Egg,7,False
-Smarty Piggle,Lifebloom Egg,7,False
-Power Piggle,Jade Egg,7,False
-Brute Piggle,Lifebloom Egg,7,False
-Zebra Piggle,Enigmatic Egg,7,False
-Jolly Piggle,Chimerical Egg,7,False
-Cheery Piggle,Enigmatic Egg,7,False
-Jovial Piggle,Chimerical Egg,7,False
-Gamer Piggle,Symmetrical Egg,7,False
-Brave Piggle,Equilibrium Egg,7,False
-Nimble Piggle,Symmetrical Egg,7,False
-Swift Piggle,Equilibrium Egg,7,False
-Talented Piggle,Equilibrium Egg,9,False
-Quick Piggle,Chimerical Egg,9,False
-Sneaky Piggle,Lifebloom Egg,9,False
-Perfect Piggle,Equilibrium Egg,9,False
-Quirky Piggle,Chimerical Egg,9,False
-Tough Piggle,Lifebloom Egg,9,False
-Prime Piggle,Equilibrium Egg,9,False
-Funky Piggle,Chimerical Egg,9,False
-Sly Piggle,Lifebloom Egg,9,False
-Potent Piggle,Lifebloom Egg,9,False
-Pepper Piggle,Chimerical Egg,9,False
-Superb Piggle,Equilibrium Egg,9,False
-Golden Piggle,Chimerical Egg,7,False
-Grandpappy Piggle,Mysterious Egg,8,False
-Grandpa Piggle,Mysterious Egg,8,False
-Stray Piggle,Mysterious Egg,1,False
-Zombie Piggle,Necromantic Egg,7,False
-Decade Piggle,Enigmatic Egg,1,False
-Valentine Pig,Jade Egg,8,False
-Piranha Hunter,Equilibrium Egg,10,False
-Sorcerer Hunter,Symmetrical Egg,7,False
-Finned Assassin,Onyx Egg,7,False
-Wetland Hunter,Jade Egg,5,False
-Pixie Queen,Evanescent Egg,9,False
-Pixie Queen,Jade Egg,3,False
-Harmonious Sprite,Equilibrium Egg,8,False
-Burning Pixie,Radiant Egg,8,False
-Pink Pixie,Lifebloom Egg,8,False
-Rose Pixie,Lifebloom Egg,8,False
-Fuchsia Pixie,Lifebloom Egg,8,False
-Roseate Pixie,Lifebloom Egg,8,False
-Blossom Pixie,Lifebloom Egg,8,False
-Carnation Pixie,Lifebloom Egg,8,False
-Cerise Pixie,Lifebloom Egg,8,False
-Fandango Pixie,Lifebloom Egg,8,False
-Cloudburst Sprite,Stormsquall Egg,8,False
-Polar Bear Cub,Frost Shelled Egg,8,False
-Astromancer's Rat,Lifebloom Egg,8,False
-Cosmographer's Rat,Frost Shelled Egg,8,False
-Stargazer's Rat,Stormsquall Egg,8,False
-Avenging Fossil,Necromantic Egg,8,False
-Greenman Sapling,Mysterious Egg,9,False
-Scrappy Gryphon,Transcendental Egg,8,False
-Plucky Gryphon,Transcendental Egg,8,False
-Snappy Gryphon,Transcendental Egg,8,False
-Panda Sproutlings,Lifebloom Egg,10,False
-Playful Panda Cubs,Lifebloom Egg,10,False
-Precocious Panda Cubs,Lifebloom Egg,10,False
-Precious Panda Cubs,Lifebloom Egg,10,False
-Vibrant Pegasus,Symmetrical Egg,8,False
-Prismatic Pegasus,Otherworldly Egg,8,False
-Handsome Pegasus,Frost Shelled Egg,8,False
-Hearty Pegasus,Pyromantic Egg,8,False
-Spooky Pegasus,Enigmatic Egg,8,False
-Motley Pegasus,Chimerical Egg,8,False
-Pretty Pegasus,Lifebloom Egg,8,False
-Barkerville Hound,Mysterious Egg,6,False
-Wargoyle,Symmetrical Egg,9,False
-Beastling,Fluffy Egg,9,False
-Blimp Friend,Equilibrium Egg,6,False
-Blimp Sidekick,Necromantic Egg,6,False
-Blimp Companion,Pyromantic Egg,6,False
-Blimp Buddy,Frostshelled Egg,6,False
-Blimp Ally,Lifebloom Egg,6,False
-Blimp Pal,Radiant Egg,6,False
-Blimp Chum,Stormsquall Egg,6,False
-Red Apple Brudel,Pyromantic Egg,6,False
-Green Apple Brudel,Lifebloom Egg,6,False
-Golden Apple Brudel,Enigmatic Egg,6,False
-Zombee,Necromantic Egg,9,False
-Cuddly Capybara,Lifebloom Egg,8,False
-Feral Zorphie,Chimerical Egg,8,False
-Ravenous Zorphie,Chimerical Egg,8,False
-Vicious Zorphie,Chimerical Egg,8,False
-Chipmunk Conductor,Chimerical Egg,8,False
-Chocostein's Monster,Radiant Egg,7,False
-Stylin' Corgi,Radiant Egg,8,False
-Hip Corgi,Radiant Egg,8,False
-Cool Corgi,Radiant Egg,8,False
-Rotten Candy,Mysterious Egg,8,False
-Booloon,Pyromantic Egg,9,False
-Decade Dragon,Equilibrium Egg,8,False
-Decennial Dragon,Equilibrium Egg,8,False
-Peppy Porpoise,Jade Egg,9,False
-Drama Llama,Necromantic Egg,9,False
-Dryad,Lifebloom Egg,8,False
-Spring Chicken,Mysterious Egg,9,False
-Elfvis,Radiant Egg,6,False
-Grumpy Gingerman,Evanescent Egg,7,False
-Scare Bear,Onyx Egg,9,False
-Eye Pal,Maelstrom Egg,8,False
-Feathered Tabby,Symmetrical Egg,7,False
-Fenris,Stormsquall Egg,8,False
-Wildlands Wolf,Necromantic Egg,9,False
-Fenris,Radiant Egg,9,False
-Fenrir,Necromantic Egg,9,False
-Fenric,Enigmatic Egg,9,False
-Fossa,Chimerical Egg,8,False
-Frankenbunny Bride,Maelstrom Egg,9,False
-Scratchy Frillasaur,Evanescent Egg,8,False
-Scaly Frillasaur,Evanescent Egg,8,False
-Snappy Frillasaur,Evanescent Egg,8,False
-Noble Toad,Winterborn Egg,9,False
-Beau Frog,Stormsquall Egg,8,False
-Spicy Gingerbreadman,Stormsquall Egg,7,False
-Feisty Gingerbreadman,Mysterious Egg,7,False
-Salty Gingerbreadman,Stormy Egg,7,False
-Blue Globulin,Enigmatic Egg,3,False
-Green Globulin,Enigmatic Egg,4,False
-Purple Globulin,Enigmatic Egg,5,False
-Fairyfly,Blinking Egg,9,False
-Coocoonut Bear,Evanescent Egg,8,False
-Licorice Bear,Necromantic Egg,8,False
-Cinamazing Bear,Pyromantic Egg,8,False
-Winterfreeze Bear,Frost Shelled Egg,8,False
-Xtreme Lime Bear,Lifebloom Egg,8,False
-SweetCitrus Bear,Enigmatic Egg,8,False
-Zazzleberry Bear,Otherworldly Egg,8,False
-Hall Minotaur,Frost-Shelled Egg,9,False
-Ravenwood Class Pet,Lovely Egg,7,True
-Balance Class Pet,Equilibrium Egg,9,True
-Death Class Pet,Transcendental Egg,9,True
-Fire Class Pet,Pyromantic Egg,9,True
-Ice Class Pet,Frostshelled Egg,9,True
-Life Class Pet,Jade Egg,9,True
-Myth Class Pet,Radiant Egg,9,True
-Storm Class Pet,Maelstrom Egg,9,True
-Hummingbird,Mysterious Egg,8,False
-Balance-ish Frog,Chimerical Egg,9,False
-Death-ish Frog,Chimerical Egg,9,False
-Fire-ish Frog,Chimerical Egg,9,False
-Ice-ish Frog,Chimerical Egg,9,False
-Life-ish Frog,Chimerical Egg,9,False
-Myth-ish Frog,Chimerical Egg,9,False
-Storm-ish Frog,Chimerical Egg,9,False
-Irk,Pyromantic Egg,8,False
-Calixco Kitten,Mysterious Egg,0,False
-Leaping Leprechaun,Evanescent Egg,8,False
-Li'l Lemur,Stormsquall Egg,8,False
-Deep Leviathan,Stormsquall Egg,8,False
-Feisty Lion Cubs,Scruffy Egg,7,False
-Fearless Lion Cubs,Scruffy Egg,7,False
-Spirited Lion Cubs,Scruffy Egg,7,False
-Lord Of Winter,Winterborn Egg,8,False
-Lucky Cat,Radiant Egg,9,False
-Daisy Lumi.,Symmetrical Egg,10,False
-Daisy Lumi,Symmetrical Egg,10,False
-Fern Lumi,Symmetrical Egg,10,False
-Sunny Lumi,Symmetrical Egg,10,False
-Tulip Lumi,Symmetrical Egg,10,False
-Violet Lumi,Symmetrical Egg,10,False
-Light Merryonette,Jade Egg,9,False
-Dark Scaryonette,Radiant Egg,9,False
-Marshfellow,Mysterious Egg,9,False
-Meow Wing,Chimerical Egg,7,False
-Li'l Medusa,Chimerical Egg,8,False
-CopyCake,Pyromantic Egg,8,False
-Fun Guy.,Mysterious Egg,9,False
-Fun Guy,Mysterious Egg,9,False
-Fall Sproutling,Otherworldly Egg,10,False
-Summer Sproutling,Mysterious Egg,9,False
-Winter Sproutling,Frost-Shelled Egg,9,False
-Spring Sproutling,Otherworldly Egg,10,False
-Hurricanine,Mysterious Egg,8,False
-Owl Protege,Mysterious Egg,9,False
-Owl Protege,Mysterious Egg,9,False
-Springing Chicken,Onyx Egg,7,False
-Peace Dove,Jade Egg,9,False
-Dazzlefeather,Frost-Shelled Egg,8,False
-Pet Coconut,Mysterious Egg,8,False
-Merry Prrresent,Evanescent Egg,6,False
-Winter Prrresent,Winterborn Egg,6,False
-Festive Prrresent,Necromantic Egg,6,False
-Alien Piggle,Enigmatic Egg,5,False
-Paleo Piggle,Stormsquall Egg,5,False
-Squirreligig,Maelstrom Egg,9,False
-Puffy Packfish,Jade Egg,9,False
-Steady Null Dragon,Equilibrium Egg,8,True
-Deadly Null Dragon,Otherworldly Egg,8,True
-Fiery Null Dragon,Pyromantic Egg,8,True
-Frigid Null Dragon,Frost-Shelled Egg,8,True
-Lively Null Dragon,Jade Egg,8,True
-Mythic Null Dragon,Evanescent Egg,8,True
-Stormy Null Dragon,Stormsquall Egg,8,True
-Iron Ram,Chimerical Egg,7,False
-Little Ratatoskr,Jade Egg,9,False
-Pup Prodigy,Symmetrical Egg,8,False
-Rambler's Runner,Pyromantic Egg,8,False
-Wrangler's Runner,Otherworldly Egg,8,False
-Rancher's Runner,Winterborn Egg,8,False
-Buddy Bot,Winterborn Egg,8,False
-Sabertooth,Symmetrical Egg,8,False
-Mini Sani-Bot,Mysterious Egg,7,False
-Sokar's Scarab,Radiant Egg,8,False
-Setesh's Scarab,Radiant Egg,8,False
-Apophis' Scarab,Radiant Egg,8,False
-Ravenwood Piggle,Symmetrical Egg,9,False
-Dutiful Terrier,Onyx Egg,8,False
-Loyal Terrier,Stormsquall Egg,8,False
-Trusty Terrier,Jade Egg,8,False
-Sea Courser,Otherworldly Egg,9,False
-Sea Destrier,Moist Egg,9,False
-Sea Charger,Otherworldly Egg,9,False
-Plucky Clover,Lifebloom Egg,8,False
-Mini Balance Shark,Symmetrical Egg,8,False
-Mini Death Shark,Onyx Egg,8,False
-Mini Fire Shark,Pyromantic Egg,8,False
-Mini Ice Shark,Otherworldly Egg,8,False
-Mini Life Shark,Jade Egg,8,False
-Mini Myth Shark,Chimerical Egg,8,False
-Mini Storm Shark,Stormsquall Egg,8,False
-Snowflake,Pyromantic Egg,8,False
-Forge Goblin,Otherworldly Egg,8,False
-Web Master,Enigmatic Egg,8,False
-Shadow Webling,Stormsquall Egg,7,False
-Thunderzilla,Maelstrom Egg,8,False
-Sinister Strix,Chimerical Egg,8,False
-Malefic Strix,Otherworldly Egg,8,False
-Ominous Strix,Moist Egg,8,False
-Mystic Plushie,Onyx Egg,9,False
-Fantastic Plushie,Jade Egg,9,False
-Majestic Plushie,Otherworldly Egg,9,False
-Golden Sun,Radiant Egg,9,False
-Sun Serpent,Pyromantic Egg,8,False
-Red Hot Sun,Radiant Egg,9,False
-Tanuki,Jade Egg,8,False
-Grim Goatling,Equilibrium Egg,6,False
-Glum Goatling,Lifebloom Egg,6,False
-Gloomy Goatling,Necromantic Egg,7,False
-Typhoon Kahuna,Maelstrom Egg,8,False
-Litter Critter,Rotten Egg,2,False
-New Year's Treant,Chimerical Egg,6,False
-Balance Wartle,Chimerical Egg,9,False
-Death Wartle,Onyx Egg,9,False
-Fire Wartle,Hot Egg,9,False
-Ice Wartle,Winterborn Egg,9,False
-Life Wartle,Jade Egg,9,False
-Myth Wartle,Mysterious Egg,9,False
-Storm Wartle,Stormsquall Egg,9,False
-Tentacula,Transcendental Egg,8,False
-Auspicious Ox,Equilibrium Egg,9,True
-Auspicious Tiger,Equilibrium Egg,9,True
-Ghoulish Macawbre,Mysterious Egg,9,False
-Spooky Macawbre,Mysterious Egg,9,False
-Morbid Macawbre,Mysterious Egg,9,False
-Dragon,Symmetrical Egg,1,False
-Firestorm Quetzal,Maelstrom Egg,10,False
-Harmonic Quetzal,Equilibrium Egg,10,False
-Grave Quetzal,Onyx Egg,10,False
-Inferno Quetzal,Pyromantic Egg,10,False
-Icestorm Quetzal,Frost Shelled Egg,10,False
-Vital Quetzal,Lifebloom Egg,10,False
-Fabled Quetzal,Chimerical Egg,10,False
-Ram Warrior,Evanescent Egg,8,False
-Rat Magician,Mysterious Egg,5,False
-Dastardly Magician,Symmetrical Egg,7,False
-Brown Rat Magician,Evanescent Egg,4,False
-Blustering Scamp,Mysterious Egg,5,False
-White Rat Magician,Otherworldly Egg,8,False
-Raven,Mysterious Egg,7,False
-Red Cap,Otherworldly Egg,8,False
-Red Panda,Symmetrical Egg,6,False
-Road Hog,Evanescent Egg,8,False
-Pet Rock,Mysterious Egg,6,False
-Trolling Stone,Mysterious Egg,6,False
-Leaf Foot,Lifebloom Egg,8,False
-Forlorn Sabertooth,Necromantic Egg,8,False
-Frostfang,Mysterious Egg,8,False
-Wild Sabertooth,Lifebloom Egg,8,False
-Mystic Sabertooth,Chimerical Egg,8,False
-Rescue Rover,Winterborn Egg,9,False
-Inferno Salamander,Evanescent Egg,9,False
-Fire Salamander,Otherworldly Egg,5,False
-Ice Salamander,Frost Shelled Egg,2,False
-Storm Salamander,Evanescent Egg,6,False
-Samoorai,Jade Egg,9,False
-Spellwrit Ronin,Spellwrit Egg,9,False
-Sand Worm Larva,Mysterious Egg,0,False
-Dark Worm Larva,Necromantic Egg,0,False
-Satyr,Jade Egg,8,False
-Wanderer,Jade Egg,9,False
-Stormdancer,Jade Egg,9,False
-Scarab,Symmetrical Egg,6,False
-Death Scarab,Onyx Egg,7,False
-Grim Scarab,Onyx Egg,7,False
-Life Scarab,Otherworldly Egg,5,False
-Scarecrow,Necromantic Egg,9,False
-Tundra Warden,Frost Shelled Egg,9,False
-Crop Watcher,Jade Egg,9,False
-Stormcaller,Maelstrom Egg,9,False
-Scorpion,Symmetrical Egg,6,False
-Burnt Scorpion,Radiant Egg,6,False
-Chilled Scorpion,Radiant Egg,6,False
-Superstitious Scorpion,Mysterious Egg,6,False
-Sea Dragon,Pyromantic Egg,10,False
-Seraph,Lifebloom Egg,8,False
-Tempest,Necromantic Egg,9,False
-Flamedance Seraph,Pyromantic Egg,8,False
-Frostcaller,Jade Egg,9,False
-Dreamsong Seraph,Evanescent Egg,8,False
-Yuletide Spirit,Mysterious Egg,8,False
-Sheep,Chimerical Egg,3,False
-Raid Balance,Chimerical Egg,3,False
-Raid Death,Chimerical Egg,3,False
-Raid Fire,Chimerical Egg,3,False
-Raid Ice,Chimerical Egg,3,False
-Raid Life,Chimerical Egg,3,False
-Raid Myth,Chimerical Egg,3,False
-Raid Storm,Chimerical Egg,3,False
-Onyx Shenlong Dragon,Necromantic Egg,9,False
-Jade Shenlong Dragon,Jade Egg,9,False
-Ruby Shenlong Dragon,Radiant Egg,9,False
-Ivory Shenlong Dragon,Symmetrical Egg,9,False
-Amber Shenlong Dragon,Lifebloom Egg,9,False
-Li'l Siren,Stormsquall Egg,7,False
-Ice Floe Siren,Frost-Shelled Egg,7,False
-Harrowed Bones,Necromantic Egg,7,False
-Armored Skeleton,Onyx Egg,6,False
-Skeletal Warrior,Otherworldly Egg,8,False
-Skeletal Brigand,Otherworldly Egg,8,False
-Skeletal Sneak,Otherworldly Egg,8,False
-Skeletal Scoundrel,Otherworldly Egg,8,False
-Skeletal Skulk,Otherworldly Egg,8,False
-Skeletal Rogue,Otherworldly Egg,8,False
-Skeletal Raider,Otherworldly Egg,8,False
-Skeletal Marauder,Otherworldly Egg,8,False
-Golden Armored Skeleton,Onyx Egg,7,False
-Skeletal Honor Guard,Onyx Egg,7,False
-Royal Armored Skeleton,Onyx Egg,7,False
-Skeletal Champion,Onyx Egg,7,False
-Gilded Skeleton,Onyx Egg,7,False
-Regal Skeleton,Onyx Egg,7,False
-Skeletal Gladiator,Onyx Egg,7,False
-Skeletal Legionnaire,Onyx Egg,7,False
-Skeletal Knight,Necromantic Egg,7,False
-Skink,Chimerical Egg,8,False
-Sailback Skink,Winterborn Egg,8,False
-Mander,Otherworldly Egg,5,False
-Smith,Enigmatic Egg,9,False
-Snowball,Frost Shelled Egg,9,False
-Arctic Serpent,Otherworldly Egg,6,False
-Snow Serpent,Mysterious Egg,5,False
-Fire Serpent,Otherworldly Egg,8,False
-Storm Serpent,Mysterious Egg,6,False
-White Winter Owl,Winterborn Egg,9,False
-Chieftain's Owl,Mysterious Egg,9,False
-Lava Spider,Otherworldly Egg,7,False
-Ash Spider,Pyromantic Egg,5,False
-Black Spider,Mysterious Egg,6,False
-Brown Spider,Onyx Egg,3,False
-Mirth Spider,Evanescent Egg,3,False
-Brown Recluse Spider,Mysterious Egg,3,False
-Crystal Spider,Evanescent Egg,4,False
-Blue Spider,Frost Shelled Egg,6,False
-Green Spider,Winterborn Egg,5,False
-Purple Spider,Winterborn Egg,7,False
-Queen Spider,Otherworldly Egg,8,False
-Spider Golem,Mysterious Egg,9,False
-Toy Golem,Mysterious Egg,9,False
-Horned Monkey Spider,Stormsquall Egg,3,False
-Magma Spider,Mysterious Egg,7,False
-Starburst Spider,Maelstrom Egg,3,False
-Spinyfish,Stormsquall Egg,9,False
-Sprite,Evanescent Egg,5,False
-Midnight Sprite,Otherworldly Egg,6,False
-Dark Sprite,Evanescent Egg,5,False
-Myth Sprite,Otherworldly Egg,4,False
-Rattlebones's Sprite,Enigmatic Egg,4,False
-Squirerel,Chimerical Egg,9,False
-Brave Hound,Frost Shelled Egg,9,False
-Stegosaurus,Enigmatic Egg,9,False
-Emberstone Tiger,Radiant Egg,8,False
-Ivanenko's Tiger,Mysterious Egg,8,False
-Tailstorm Pantera,Stormsquall Egg,7,False
-Stormzilla,Maelstrom Egg,8,False
-Fatezilla,Maelstrom Egg,9,False
-Grimzilla,Stormsquall Egg,9,False
-Burninator,Maelstrom Egg,9,False
-Firezilla,Radiant Egg,8,False
-Flamezilla,Pyromantic Egg,8,False
-Crimsonzilla,Radiant Egg,8,False
-Burnzilla,Pyromantic Egg,8,False
-Hotzilla,Pyromantic Egg,9,False
-Scorchzilla,Pyromantic Egg,9,False
-Infernozilla,Pyromantic Egg,9,False
-Blazezilla,Pyromantic Egg,9,False
-Frostzilla,Stormsquall Egg,9,False
-Lifezilla,Maelstrom Egg,9,False
-Mythzilla,Stormsquall Egg,9,False
-Snow Beast,Winterborn Egg,7,False
-Mythic Beast,Enigmatic Egg,9,False
-Forest Beast,Lifebloom Egg,8,False
-Shadow Beast,Otherworldly Egg,8,False
-Desert Beast,Equilibrium Egg,6,False
-Spark Beast,Stormsquall Egg,7,False
-Blaze Beast,Radiant Egg,7,False
-Strange Beast,Chimerical Egg,6,False
-Firewing,Mysterious Egg,5,False
-Sun Bird,Otherworldly Egg,6,False
-Dark Crow,Necromantic Egg,8,False
-Ice Bird,Evanescent Egg,5,False
-Storm Bird,Stormsquall Egg,6,False
-Tree Serpent,Lifebloom Egg,8,False
-Fabled Serpent,Chimerical Egg,8,False
-Enchanted Armament,Otherworldly Egg,9,False
-Balance Armaments,Duelist's Egg,9,False
-Death Armaments,Duelist's Egg,9,False
-Fire Armaments,Duelist's Egg,9,False
-Ice Armaments,Duelist's Egg,9,False
-Life Armaments,Duelist's Egg,9,False
-Myth Armaments,Duelist's Egg,9,False
-Storm Armaments,Duelist's Egg,9,False
-Tarantula Hawk,Radiant Egg,8,False
-Fast Hatcher,Otherworldly Egg,9,False
-Therizinosaurus,Equilibrium Egg,9,False
-Tiger,Equilibrium Egg,9,False
-White Tiger,Mysterious Egg,9,False
-Tiki Kahuna,Pyromantic Egg,8,False
-Toaddle,Mysterious Egg,9,False
-Toucan't,Enigmatic Egg,8,False
-Treant,Mysterious Egg,6,False
-Death Treant,Mysterious Egg,9,False
-Woodland Haunter,Lifebloom Egg,9,False
-Scourge Treant,Mysterious Egg,9,False
-Mosseaten Treant,Mysterious Egg,9,False
-Withered Treant,Mysterious Egg,9,False
-Blighted Treant,Mysterious Egg,9,False
-Deadroot Treant,Mysterious Egg,9,False
-Rotted Treant,Mysterious Egg,9,False
-Afflicted Treant,Mysterious Egg,9,False
-Firewalker,Lifebloom Egg,9,False
-Myth Treant,Chimerical Egg,6,False
-Traveller,Lifebloom Egg,9,False
-Triton,Stormsquall Egg,9,False
-Mist Triton,Necromantic Egg,9,False
-Arctic Triton,Frost Shelled Egg,9,False
-Trojan Horse,Jade Egg,9,False
-Tough Troll,Otherworldly Egg,5,False
-Troll,Otherworldly Egg,6,False
-Death Troll,Evanescent Egg,7,False
-Life Troll,Mysterious Egg,5,False
-Krokopatra's Troll,Radiant Egg,5,False
-Mustard Troll,Evanescent Egg,7,False
-Brave Hound,Jade Egg,7,False
-Ianthine Spectre,Necromantic Egg,9,False
-Darkreaver,Symmetrical Egg,9,False
-Reaver,Symmetrical Egg,9,False
-Spectre Lord,Winterborn Egg,9,False
-Ghast,Onyx Egg,9,False
-Crimson Spectre,Radiant Egg,9,False
-Spectre of the Brocken,Necromantic Egg,9,False
-Unicorn,Jade Egg,1,False
-Grove Unicorn,Lifebloom Egg,8,False
-Nightmare,Otherworldly Egg,9,False
-Fog Unicorn,Lifebloom Egg,8,False
-Vampire,Necromantic Egg,9,False
-Vampire Squirrel,Mysterious Egg,9,False
-Velociraptor,Radiant Egg,9,False
-Wayward Minstrel,Frost Shelled Egg,8,False
-Mischievous Minstrel,Jade Egg,9,False
-Weasel Minstrel,Onyx Egg,7,False
-Charming Minstrel,Radiant Egg,8,False
-Nodori Winged Ram,Winterborn Egg,7,False
-Diseased Wildclaw,Onyx Egg,6,False
-Primal Wildclaw,Jade Egg,6,False
-Silverback Wildclaw,Mysterious Egg,9,False
-Wildfire Treant,Pyromantic Egg,8,False
-Maple Moose,Otherworldly Egg,8,False
-Wolfhound,Stormsquall Egg,8,False
-Blood Hound,Jade Egg,8,False
-Hunter's Hound,Onyx Egg,8,False
-Warden's Icehound,Mysterious Egg,8,False
-Tricky Wildclaw,Chimerical Egg,8,False
-Savage Wildclaw,Enigmatic Egg,8,False
-Sturdy Wildclaw,Chimerical Egg,8,False
-Helpful Wildclaw,Enigmatic Egg,8,False
-Supportive Wildclaw,Enigmatic Egg,9,False
-Witty Wildclaw,Enigmatic Egg,9,False
-Rowdy Wildclaw,Enigmatic Egg,9,False
-Clever Wildclaw,Enigmatic Egg,9,False
-Jungle Wildclaw,Chimerical Egg,8,False
-Spellwrit Wildclaw,Spellwrit Egg,8,False
-Wraith,Necromantic Egg,8,False
-Reaper,Necromantic Egg,9,False
-Archfiend,Onyx Egg,9,False
-Frostlord,Necromantic Egg,9,False
-Fire Wyvern,Radiant Egg,9,False
-Ice Wyvern,Frost Shelled Egg,9,False
-Forest Crawler,Jade Egg,9,False
+egg_name,name,wow_factor
+Otherworldly Egg,Orca,4
+Winterborn Egg,Sleet Bat,6
+Winterborn Egg,Sleet Bat,6
+Necromantic Egg,Midnight Cat,8
+Necromantic Egg,Midnight Cat,8
+Pyromantic Egg,Charrlossus,10
+Pyromantic Egg,Towering Inferno,10
+Pyromantic Egg,Coal Colossus,10
+Frost Shelled Egg,Big Chill,8
+Frost Shelled Egg,Frigorific Colossus,8
+Frost Shelled Egg,Winter Walker,8
+Frost Shelled Egg,Winter Walker,8
+Frost Shelled Egg,Lively Colossus,8
+Radiant Egg,Florossus,8
+Maelstrom Egg,Stratus Colossus,10
+Maelstrom Egg,Hurricolossus,10
+Symmetrical Egg,Harmonic Cyclops,5
+Symmetrical Egg,Eyequilibriops,5
+Frost Shelled Egg,Cryptclops,8
+Necromantic Egg,Death Gazer,8
+Jade Egg,Springclops,9
+Jade Egg,Soulclops,9
+Necromantic Egg,Woebegone Draconian,10
+Pyromantic Egg,Emberwing,10
+Winterborn Egg,Bitter Draconian,7
+Lifebloom Egg,Soulful Draconian,10
+Lifebloom Egg,Vernal Draconian,10
+Lifebloom Egg,Leafwing,10
+Chimerical Egg,Fabled Draconian,10
+Chimerical Egg,Fablewing,10
+Winterborn Egg,Cryo Elf,8
+Winterborn Egg,Sleet Elf,8
+Winterborn Egg,Frigid Fiend,8
+Mysterious Egg,Catersquall,8
+Mysterious Egg,Catersquall,8
+Jade Egg,Sprite of Life,5
+Stormsquall Egg,Electric Elf,5
+Stormsquall Egg,Nimbus Elf,5
+Pyromantic Egg,Fiesty Fire Elf,8
+Pyromantic Egg,Pyre Elf,8
+Onyx Egg,Feisty Fire Kitten,8
+Equilibrium Egg,Fierce Fire Kitten,8
+Lifebloom Egg,Fervid Fire Kitten,8
+Otherworldly Egg,Clever Cogs,7
+Otherworldly Egg,Clever Cogs,7
+Equilibrium Egg,Balance Hamster,9
+Transcendental Egg  ,Death Class Pet,9
+Transcendental Egg  ,Death Class Pet,9
+Pyromantic Egg,Fire Class Pet,9
+Pyromantic Egg,Fire Class Pet,9
+Frostshelled Egg,Ice Class Pet,9
+Frostshelled Egg,Ice Class Pet,9
+Jade Egg,Life Hamster,9
+Radiant Egg,Myth Class Pet,9
+Radiant Egg,Myth Class Pet,9
+Maelstrom Egg,Storm Hamster,9
+Lovely Egg,Ravenwood Hamster,7
+Pyromantic Egg,Yokai,8
+Pyromantic Egg,Yokai,8
+Symmetrical Egg,Hale Hydra,8
+Symmetrical Egg,Hale Hydra,8
+Enigmatic Egg,Vexing Imp,7
+Enigmatic Egg,Vexing Imp,7
+Otherworldly Egg,Krok of Ages,7
+Scruffy Egg,Scaled Krok,7
+Winterborn Egg,Cool Krok,6
+Winterborn Egg,Frigid Krokomummy,9
+Winterborn Egg,Chill Krokomummy,6
+Maelstrom Egg,Thunder Krok,8
+Maelstrom Egg,Shockodile,8
+Pyromantic Egg,Burnotaur,9
+Pyromantic Egg,Moltentaur,8
+Evanescent Egg,Mythotaur,9
+Evanescent Egg,Cowmera,9
+Evanescent Egg,Parabull,9
+Otherworldly Egg,Rancid Ninja Pig,9
+Necromantic Egg,Necroninja,9
+Necromantic Egg,Necrotic Ninja Pig,9
+Pyromantic Egg,Crispy Ninja Pig,9
+Pyromantic Egg,Roasted Ninja Pig,9
+Pyromantic Egg,Infernal Ninja Pig,9
+Pyromantic Egg,Charred Ninja,9
+Jade Egg,Pork Ranger,9
+Maelstrom Egg,Thunder Ham,8
+Chimerical Egg,Fellhound,8
+Chimerical Egg,Fellhound,8
+Enigmatic Egg,Adventurous Racoon,8
+Pyromantic Egg,Intrepid Racoon,8
+Maelstrom Egg,Able Racoon,8
+Maelstrom Egg,Thunder Rat,8
+Otherworldly Egg,Grim Squeaker,8
+Otherworldly Egg,Grave Rat,8
+Pyromantic Egg,Pyro Pest,7
+Evanescent Egg,Ratscallion,8
+Evanescent Egg,King of Thieves,8
+Jade Egg,Sylvan Satyr,8
+Jade Egg,Sylvan Satyr,8
+Otherworldly Egg,Emerald Beetle,5
+Otherworldly Egg,Emerald Beetle,5
+Otherworldly Egg,Cinder Serpent,8
+Otherworldly Egg,Cinder Serpent,8
+Symmetrical Egg,Fair-E,5
+Symmetrical Egg,Pairity Fairy,5
+Symmetrical Egg,Poised Pixie,5
+Otherworldly Egg,Cemetary Fairy,5
+Frost Shelled Egg,Flurry Fairy,5
+Enigmatic Egg,Book Fairy,7
+Evanescent Egg,Scary Fairy,5
+Lifebloom Egg,Merry Fairy,5
+Radiant Egg,Fae Vivae,8
+Maelstrom Egg,Thundersaurus Rex,8
+Maelstrom Egg,Thundersaurus Rex,8
+Symmetrical Egg,Harmonic Howler,5
+Winterborn Egg,Bonechiller,5
+Winterborn Egg,Tundra Howler,5
+Jade Egg,Fabled Howler,9
+Maelstrom Egg,Lightning Lycan,7
+Necromantic Egg,Phantasm,8
+Necromantic Egg,Phantasm,8
+Maelstrom Egg,Arcane Helpers,9
+Equilibrium Egg,Armordillo,8
+Onyx Egg,Rockin' Roller,8
+Evanescent Egg,Stained Glass Roller,8
+Symmetrical Egg,Reanimated Fossil,8
+Pyromantic Egg,Charred Fossil,8
+Winterborn Egg,Crystalline Fossil,8
+Maelstrom Egg,Babydactyl,8
+Necromantic Egg,Deathdactyl,8
+Otherworldly Egg,Mythdactyl,8
+Radiant Egg,Lifedactyl,8
+Winterborn Egg,Icedactyl,8
+Jade Egg,Dragonfly,7
+Otherworldly Egg,Pegasus Pony,8
+Pyromantic Egg,Intrepid Seal Pup,8
+Enigmatic Egg,Cunning Seal Pup,8
+Maelstrom Egg,Playful Seal Pup,8
+Mysterious Egg,Wildwood Yeti,8
+Winterborn Egg,Mountain Yeti,8
+Lifebloom Egg,Timberland Yeti,8
+Mysterious Egg,Blue Banshee,4
+Mysterious Egg,Boss Banshee,7
+Evanescent Egg,Life Banshee,4
+Otherworldly Egg,Myth Banshee,6
+Mysterious Egg,Red Banshee,7
+Spellwrit Egg,Spellwrit Screamer,2
+Mysterious Egg,Mythical Basilisk,9
+Chimerical Egg,Desert Basilisk,9
+Necromantic Egg,Void Basilisk,9
+Frost Shelled Egg,Tundra Basilisk,9
+Jade Egg,Forest Basilisk,9
+Mysterious Egg,Cyclone Basilisk,9
+Mysterious Egg,Snake in a Basket,9
+Mysterious Egg,Viper in a Jar,9
+Mysterious Egg,Fang Bat,6
+Equilibrium Egg,Bloodbat,1
+Evanescent Egg,Firebat,6
+Winterborn Egg,Icebat,6
+Maelstrom Egg,Lightningbat,2
+Evanescent Egg,Stormbat,4
+Enigmatic Egg,Betta Fish,8
+Necromantic Egg,Black Cat,8
+Mysterious Egg,Deathbat,7
+Mysterious Egg,Lifebat,7
+Radiant Egg,Dutiful Bloodbat,1
+Pyromantic Egg,Bloodwing,1
+Equilibrium Egg,Resolute Bloodbat,1
+Frost Shelled Egg,Frosty Fish,6
+Evanescent Egg,Grizzley Boar,3
+Symmetrical Egg,Boar Knight,7
+Pyromantic Egg,Striped Boar,4
+Necromantic Egg,Bone Dragon,9
+Radiant Egg,Magma Dragon,9
+Frost Shelled Egg,Glacier Dragon,9
+Stormsquall Egg,Night Hawk,9
+Chimerical Egg,Dread Grimoire,9
+Chimerical Egg,Dusty Grimoire,9
+Necromantic Egg,Forgotten Grimoire,9
+Mysterious Egg,Ygor's Grimoire,9
+Pyromantic Egg,Incendiary Grimoire,9
+Winterborn Egg,Verglas Grimoire,9
+Lifebloom Egg,Rooted  Grimoire,9
+Otherworldly Egg,Fabled Grimoire,9
+Maelstrom Egg,Whirlwind Grimoire,9
+Shivering Egg,Borealis Golem,7
+Shivering Egg,Ember Golem,7
+Shivering Egg,Arcane Golem,7
+Evanescent Egg,Bronze Golem,9
+Hot Egg,Raging Bull,7
+Hot Egg,Gallant Bull,7
+Hot Egg,Courageous Bull,7
+Hot Egg,Charging Bull,7
+Lifebloom Egg,Bumble Bee,8
+Enigmatic Egg,Snowhoppers,0
+Enigmatic Egg,Holiday Hoppers,0
+Enigmatic Egg,Bunny Mallow,9
+Enigmatic Egg,Bunny Mallow,9
+Jade Egg,Burlap Boy,7
+Symmetrical Egg,Harmonious Baaterfly,7
+Mysterious Egg,Dreamy Baaterfly,7
+Maelstrom Egg,Energetic Baaterfly,7
+Jade Egg,Yellow Cactus Hopper,5
+Jade Egg,Pink Cactus Hopper,5
+Jade Egg,Red Cactus Hopper,5
+Symmetrical Egg,Cat Thug,2
+Otherworldly Egg,Blue Cat Thug,4
+Jade Egg,Green Cat Thug,6
+Chimerical Egg,Muscled Cat,6
+Equilibrium Egg,Chameleon,6
+Equilibrium Egg,Cave Chameleon,6
+Otherworldly Egg,Battle Cherub,8
+Otherworldly Egg,Chimera,9
+Necromantic Egg,Oblivion Chimera,9
+Radiant Egg,Infernal Chimera,9
+Mysterious Egg,Tempest Chimera,9
+Frost Shelled Egg,Frostman,8
+Winterborn Egg,Christmas Elf,8
+Otherworldly Egg,Clockwork Paladin,10
+Pyromantic Egg,Mechanical Owl,9
+Stormy Egg,Rain Core,7
+Stormy Egg,Acid Rain Core,7
+Stormy Egg,Freezing Rain Core,7
+Pyromantic Egg,Lump of Coal,9
+Mysterious Egg,Snake in a Basket,9
+Jade Egg,Copper Colossus,8
+Winterborn Egg,Earth Elemental,9
+Frost Shelled Egg,Ice Colossus,8
+Pyromantic Egg,Magma Colossus,10
+Winterborn Egg,Inferno Colossus,9
+Winterborn Egg,Darkwalker,9
+Winterborn Egg,Fatesealer,9
+Winterborn Egg,Sandman,9
+Spellwrit Egg,Spellwrit Stalker,8
+Evanescent Egg,Spirit of Nature,8
+Symmetrical Egg,Silver Colossus,5
+Equilibrium Egg,Stone Colossus,6
+Winterborn Egg,Stormwarden,9
+Maelstrom Egg,Storm Colossus,7
+Stormsquall Egg,Rain Colossus,7
+Maelstrom Egg,Bolt Colossus,7
+Stormsquall Egg,Shock Colossus,7
+Stormsquall Egg,Thunder Colossus,9
+Stormsquall Egg,Blast Colossus,9
+Stormsquall Egg,Spark Colossus,9
+Stormsquall Egg,Cloud Colossus,9
+Enigmatic Egg,Earth Walker,9
+Pyromantic Egg,Dapper Corgi,7
+Mysterious Egg,Party Corgi,7
+Equilibrium Egg,Dignified Crabling,8
+Onyx Egg,Grave Crabling,8
+Equilibrium Egg,Fervid Crabling,8
+Equilibrium Egg,Crabling,8
+Lifebloom Egg,Hearty Crabling,8
+Chimerical Egg,Clever Crabling,8
+Onyx Egg,Pesky Beetle,8
+Equilibrium Egg,Crystal Butterfly,8
+Enigmatic Egg,Cyclops,6
+Winterborn Egg,Blue Cyclops,3
+Otherworldly Egg,Death Cyclops,8
+Jade Egg,Life Cyclops,9
+Jade Egg,Viridian Cyclops,9
+Jade Egg,Forest Cyclops,9
+Jade Egg,Hulking Cyclops,9
+Jade Egg,Emerald Cyclops,9
+Jade Egg,Timber Cyclops,9
+Jade Egg,Wildwood Cyclops,9
+Jade Egg,Sage Cyclops,9
+Chimerical Egg,Dread Grimoire,9
+Radiant Egg,Charred Grimhorn,8
+Maelstrom Egg,Drowned Grimhorn,8
+Frost Shelled Egg,Frostbound Grimhorn,7
+Otherworldly Egg,Deer Knight,9
+Otherworldly Egg,Fiery Death Knight,9
+Equilibrium Egg,Great Horned Knight,9
+Chimerical Egg,Hartlancer,8
+Radiant Egg,Horned Brocket,9
+Radiant Egg,Mythical Brocket,9
+Jade Egg, Placeholder,8
+Mysterious Egg,Mythic Lancer,9
+Radiant Egg,Fiery Charger,9
+Winterborn Egg,Icy Charger,9
+Frost Shelled Egg,Shardtail Dragon,7
+Frost Shelled Egg,Fragmented Dragon,7
+Radiant Egg,Pioneer Dragon,10
+Radiant Egg,Frontier Dragon,10
+Lifebloom Egg,Buddy Dragon,5
+Frost Shelled Egg,Vigilant Dragon,9
+Chimerical Egg,Utility Dragon,9
+Pyromantic Egg,Assailing Dragon,9
+Jade Egg,Friendly Dragon,8
+Mysterious Egg,Coldfire Dragon,7
+Chimerical Egg,Power Dragon,7
+Enigmatic Egg,Sturdy Dragon,7
+Chimerical Egg,Magical Dragon,7
+Enigmatic Egg,Guardian Dragon,7
+Winterborn Egg,Blue Dragon,7
+Frost Shelled Egg,Royal Dragon,7
+Winterborn Egg,Azure Dragon,7
+Frost Shelled Egg,Indigo Dragon,7
+Lifebloom Egg,Fun Dragon,8
+Jade Egg,Toy Dragon,8
+Lifebloom Egg,Sporty Dragon,8
+Jade Egg,Nice Dragon,8
+Jade Egg,Tricky Dragon,9
+Frost Shelled Egg,Aqua Dragon,9
+Enigmatic Egg,Spiritual Dragon,9
+Jade Egg,Daring Dragon,9
+Frost Shelled Egg,Armor Dragon,9
+Enigmatic Egg,Defender Dragon,9
+Jade Egg,Bold Dragon,9
+Frost Shelled Egg,Cerulean Dragon,9
+Enigmatic Egg,Revered Dragon,9
+Enigmatic Egg,Divine Dragon,9
+Frost Shelled Egg,Turquoise Dragon,9
+Jade Egg,Dynamic Dragon,9
+Otherworldly Egg,Ghost Dragon,10
+Otherworldly Egg,Penumbra Drake,10
+Lifebloom Egg,Dragon of Kings,8
+Mysterious Egg,Detolli's Dragon,10
+Chimerical Egg,Foxy Dragon,7
+Pyromantic Egg,Summer Dragon,4
+Necromantic Egg,Rotting Dryad,8
+Pyromantic Egg,Burning Dryad,8
+Stormsquall Egg,Windswept Dryad,8
+Mysterious Egg,Beastmaster's Eagle,9
+Radiant Egg,Efreet,9
+Frost Shelled Egg,Jinn,9
+Otherworldly Egg,Genie,9
+Stormsquall Egg,Marid,9
+Mysterious Egg,Pet Egg,7
+Mysterious Egg,Egg Chick,7
+Mysterious Egg,Egg Chick,7
+Mysterious Egg,Baba Yaga's Egg,7
+Equilibrium Egg,Chameleon,6
+Evanescent Egg,Grumpy Snowman,7
+Otherworldly Egg,Evil Snowman,4
+Pyromantic Egg,Fire Snowman,8
+Otherworldly Egg,Evil Sandman,8
+Otherworldly Egg,Storm Snowman,6
+Blinking Egg,Wandering Eye,7
+Blinking Egg,Gloomy Eye,7
+Blinking Egg,Frosty Eye,7
+Lifebloom Egg,Eyebendito,7
+Symmetrical Egg,Eyediache,9
+Necromantic Egg,Eyecaramba,7
+Enigmatic Egg,Fennec Fox,9
+Mysterious Egg,Inferno Cat,6
+Radiant Egg,Firecat,1
+Frost Shelled Egg,Ice Cat,3
+Winterborn Egg,Frozen Cat,8
+Frost Shelled Egg,Glacier Cat,8
+Winterborn Egg,Frost Cat,8
+Frost Shelled Egg,Arctic Cat,8
+Frost Shelled Egg,Polar Cat,9
+Frost Shelled Egg,Snowy Cat,9
+Frost Shelled Egg,Blizzard Cat,9
+Frost Shelled Egg,Cool Cat,9
+Mysterious Egg,Storm Cat,8
+Radiant Egg,Decade Firecat,9
+Radiant Egg,Firecat,1
+Radiant Egg,Fire Elf,6
+Winterborn Egg,Ice Elf,7
+Stormsquall Egg,Storm Elf,5
+Radiant Egg,Yellow Elf,3
+Onyx Egg,Flamenco del Muerto,9
+Evanescent Egg,Flamenco Cantador,7
+Equilibrium Egg,Flamenco Tocador,6
+Lifebloom Egg,Flamenco Bailador,6
+Necromantic Egg,Winged Catastrophe,7
+Chimerical Egg,Meow Wing,7
+Symmetrical Egg,Flying Squirrel,7
+Necromantic Egg,Fiendish Foo Dog,9
+Mysterious Egg,Elemental Foo Dog,9
+Chimerical Egg,Imperial Foo Dog,9
+Otherworldly Egg,Guardian Foo Dog,9
+Stormsquall Egg,Lavender Foo Dog,9
+Radiant Egg,Sunfire Foo Dog,9
+Jade Egg,Forest Lord,9
+Radiant Egg,Inferno Beast,9
+Chimerical Egg,Wendigo,9
+Maelstrom Egg,Cloud Beast,9
+Equilibrium Egg,Spirit of the Forest,9
+Stormsquall Egg,Frankenbunny,7
+Symmetrical Egg,Frankie Forearms,10
+Frost Shelled Egg,Frilled Lizard,7
+Enigmatic Egg,Frog,3
+Enigmatic Egg,Brainy Assistant,8
+Winterborn Egg,Frost Beetle,6
+Radiant Egg,Fire Beetle,6
+Stormsquall Egg,Rain Beetle,9
+Maelstrom Egg,Storm Beetle,9
+Onyx Egg,Gargoyle,7
+Mysterious Egg,Beguiled Gargoyle,10
+Onyx Egg,Decade Gargoyle,9
+Otherworldly Egg,Blue Ghost,5
+Necromantic Egg,Pale Maiden,8
+Otherworldly Egg,Green Ghost,6
+Necromantic Egg,Red Ghost,9
+Mysterious Egg,Yellow Ghost,5
+Evanescent Egg,Ghoul,4
+Otherworldly Egg,Dire Ghoul,7
+Mysterious Egg,Ghulture,7
+Mysterious Egg,Enigmatic Ghulture,7
+Mysterious Egg,Clamoring Ghulture,7
+Evanescent Egg,Zombie,8
+Otherworldly Egg,Dream Ghoul,6
+Mysterious Egg,Meowiarty's Ghoul,6
+Lifebloom Egg,Life Ghoul,6
+Mysterious Egg,Myth Ghoul,5
+Lifebloom Egg,Giraffe,9
+Jade Egg,Gnome,9
+Chimerical Egg,Desert Gnome,9
+Necromantic Egg,Graveyard Gnome,9
+Radiant Egg,Fire Gnome,9
+Stormsquall Egg,Rain Gnome,9
+Chimerical Egg,Goat Monk,4
+Onyx Egg,Gruff Goat Monk,4
+Lifebloom Egg,Gob-O-Lantern,7
+Chimerical Egg,Red Gobbler,6
+Chimerical Egg,GobblerBall,6
+Evanescent Egg,Golden Ram,7
+Equilibrium Egg,Steel Golem,6
+Equilibrium Egg,Mister Incinerator,6
+Equilibrium Egg,Furnace Golem,6
+Equilibrium Egg,Coal Train,6
+Equilibrium Egg,Cinerator Golem,6
+Equilibrium Egg,Metalmaton,6
+Equilibrium Egg,Boiler Golem,6
+Equilibrium Egg,Old Sparky,6
+Mysterious Egg,Fine Wood Golem,7
+Symmetrical Egg,Wood Golem,3
+Equilibrium Egg,Brass Golem,3
+Otherworldly Egg,Clockwork Golem,7
+Enigmatic Egg,Golden Goose,6
+Chimerical Egg,Harpy,9
+Otherworldly Egg,Zeus's Harpy,9
+Chimerical Egg,Friendship Oni,4
+Pyromantic Egg,Heckhound,1
+Chimerical Egg,Inferno Hound,9
+Radiant Egg,Danger Hound,6
+Otherworldly Egg,Dark Hound,10
+Mysterious Egg,Brave Hound,9
+Necromantic Egg,Fierce Hound,9
+Chimerical Egg,Safety Hound,9
+Chimerical Egg,Cautious Hound,9
+Chimerical Egg,Attentive Hound,9
+Chimerical Egg,Careful Hound,9
+Chimerical Egg,Watchful Hound,9
+Chimerical Egg,Alert Hound,9
+Stormsquall Egg,Periwinkle Hound,9
+Stormsquall Egg,Amethyst Hound,9
+Stormsquall Egg,Amaranthine Hound,9
+Stormsquall Egg,Violet Hound,9
+Stormsquall Egg,Magenta Hound,9
+Stormsquall Egg,Ianthine Hound,9
+Chimerical Egg,Prudent Hound,9
+Stormsquall Egg,Mulberry Hound,9
+Chimerical Egg,Tactical Hound,9
+Stormsquall Egg,Heliotrope Hound,9
+Necromantic Egg,Ghost Hound,8
+Mysterious Egg,Ice Hound,1
+Stormsquall Egg,Storm Hound,9
+Pyromantic Egg,Helephant,8
+Radiant Egg,Death Oni,9
+Radiant Egg,Ice Oni,9
+Winterborn Egg,Snoni,9
+Radiant Egg,Forest Oni,9
+Onyx Egg,Bronze Helephant,9
+Radiant Egg,Plague Oni,9
+Radiant Egg,Maelstrom Oni,9
+Stormsquall Egg,Storm Demon,8
+Maelstrom Egg,Cloud Demon,8
+Stormsquall Egg,Shock Demon,8
+Maelstrom Egg,Rain Demon,8
+Maelstrom Egg,Damp Demon,9
+Maelstrom Egg,Bolt Demon,9
+Maelstrom Egg,Skyscream Demon,9
+Maelstrom Egg,Skyslash Demon,9
+Radiant Egg,War Oni,9
+Chimerical Egg,Jade Oni,8
+Mysterious Egg,Rude Goblin,7
+Frost Shelled Egg,Hollow Knight,9
+Mysterious Egg,Boundless Knight,9
+Necromantic Egg,Vacant Knight,9
+Enigmatic Egg,Melted Knight,7
+Necromantic Egg,Shiverous Knight,6
+Otherworldly Egg,Soulful Knight,10
+Otherworldly Egg,Ethereal Knight,8
+Mysterious Egg,Vaporous Knight,9
+Chimerical Egg,Humongofrog,9
+Necromantic Egg,Gloom Toad,9
+Radiant Egg,Flame Toad,9
+Frost Shelled Egg,Frosthopper,9
+Symmetrical Egg,Hydra,8
+Symmetrical Egg,Helion,9
+Symmetrical Egg,Creeper,9
+Symmetrical Egg,Basilisk,9
+Symmetrical Egg,Leviathan,9
+Equilibrium Egg,Royal Ibis,8
+Winterborn Egg,Arctic Elf,8
+Winterborn Egg,Frigid Elf,8
+Winterborn Egg,Glacial Elf,8
+Winterborn Egg,Snow-covered Elf,8
+Winterborn Egg,Polar Elf,8
+Winterborn Egg,Wintry Elf,8
+Winterborn Egg,Blizzard Elf,8
+Winterborn Egg,Frostbite Elf,8
+Otherworldly Egg,Greater Imp,7
+Lifebloom Egg,Imp,1
+Evanescent Egg,Dark Imp,5
+Enigmatic Egg,Myth Imp,7
+Necromantic Egg,Jack O Lantern,9
+Necromantic Egg,Jellyfish,8
+Maelstrom Egg,Pink Jellyfish,8
+Symmetrical Egg,Judgement,9
+Radiant Egg,Fiery Judge,9
+Jade Egg,Astral Judge,9
+Scruffy Egg,Kookaburra,7
+Scruffy Egg,Noble Kookaburra,7
+Scruffy Egg,Ornery Kookaburra,7
+Maelstrom Egg,Kraken,9
+Frost Shelled Egg,Ice Kraken,9
+Chimerical Egg,Topaz Kraken,9
+Evanescent Egg,Krokomummy,6
+Winterborn Egg,Frosty Krokomummy,6
+Evanescent Egg,Furious Krokomummy,6
+Symmetrical Egg,Krok,4
+Evanescent Egg,Krokotillian,8
+Pyromantic Egg,Meowiarty's Krok,4
+Lifebloom Egg,Ladybug,6
+Pyromantic Egg,Leopard,9
+Lovely Egg,Lovely Leopard,9
+Otherworldly Egg,Leprechaun,6
+Evanescent Egg,Myth Leprechaun,6
+Radiant Egg,Patriotic Leprechaun,8
+Lifebloom Egg,Lucky Leprechaun,8
+Necromantic Egg,Death Leprechaun,8
+Necromantic Egg,Chaos Leviathan,8
+Lifebloom Egg,Eternal Leviathan,8
+Chimerical Egg,Dreaming Leviathan,8
+Maelstrom Egg,Lion,9
+Symmetrical Egg,Lord of Autumn,8
+Pyromantic Egg,Lord of Summer,8
+Stormsquall Egg,Lord of Spring,8
+Lovely Egg,Lovely Ladybug,6
+Radiant Egg,MaCaw,8
+Make a Wish Egg,Polterpooch,8
+Frost Shelled Egg,Mammoth,9
+Chimerical Egg,Desert Mammoth,9
+Jade Egg,Plains Mammoth,9
+Symmetrical Egg,Poised Medusa,8
+Winterborn Egg,Shivering Medusa,8
+Stormsquall Egg,Fulminating Medusa,8
+Chimerical Egg,Red Gobbler,6
+Stormsquall Egg,Mini Mimic,9
+Onyx Egg,Obsidian Mimic,7
+Evanescent Egg,Minotaur,9
+Onyx Egg,Nightwalker,9
+Mysterious Egg,Nightwalker,3
+Evanescent Egg,Life Minotaur,7
+Mysterious Egg,Shaolin Monkey,9
+Mysterious Egg,Sultan's Monkey,9
+Frost-Shelled Egg,Brother Cheesiwitz,6
+Radiant Egg,Papa Cheesiwitz,6
+Evanescent Egg,Mama Cheesiwitz,6
+Chimerical Egg,Sister Cheesiwitz,6
+Onyx Egg,Mummy Cat,7
+Stormsquall Egg,Night Hawk,9
+Stormsquall Egg,Desert Hawk,9
+Equilibrium Egg,Ninja Pig,3
+Evanescent Egg,Death Ninja,8
+Onyx Egg,Ninja Piggle,1
+Frost Shelled Egg,Arctic Ninja Pig,9
+Onyx Egg,Plague Ninja,8
+Lifebloom Egg,Defender Pig,8
+Onyx Egg,Battle Pig,8
+Radiant Egg,Scout Pig,8
+Pyromantic Egg,War Pig,8
+Radiant Egg,Hero Pig,9
+Radiant Egg,Power Pig ,9
+Radiant Egg,Premier Porker,9
+Radiant Egg,Pugilist Pig,9
+Mysterious Egg,Shellnobi Warrior,1
+Winterborn Egg,Nutcracker,9
+Still Egg,Opossum,7
+Still Egg,Ghastly Opossum,7
+Still Egg,Lively Opossum,7
+Mysterious Egg,Origami Party Crane,6
+Jade Egg,Origami Cardinal,1
+Mysterious Egg,Origami Crane,6
+Chimerical Egg,Orthrus,8
+Chimerical Egg,Cerberus,9
+Chimerical Egg,Grimtooth,9
+Chimerical Egg,Frost Hound,9
+Chimerical Egg,Jade Hound,9
+Chimerical Egg,Tempest Hound,9
+Stormsquall Egg,First Mate Otter,6
+Enigmatic Egg,Trendkill Pantera,7
+Onyx Egg,Panther,9
+Mysterious Egg,Polar Fox,8
+Mysterious Egg,Blaze Fox,8
+Frost Shelled Egg,Proper Penguin,8
+Radiant Egg,Phoenix,9
+Necromantic Egg,Shadow Phoenix,9
+Maelstrom Egg,Thunderbird,9
+Lifebloom Egg,Cupig,8
+Enigmatic Egg,Piggle,1
+Mysterious Egg,Cheetah Piggle,8
+Mysterious Egg,Freckled Piggle,8
+Mysterious Egg,Speckled Piggle,8
+Mysterious Egg,Leopard Piggle,8
+Mysterious Egg,Spotted Piggle,8
+Mysterious Egg,Mottled Piggle,8
+Mysterious Egg,Dappled Piggle,8
+Mysterious Egg,Piebald Piggle,8
+Jade Egg,Dill Piggle,9
+Jade Egg,Happy Piggle,7
+Lifebloom Egg,Smarty Piggle,7
+Jade Egg,Power Piggle,7
+Lifebloom Egg,Brute Piggle,7
+Enigmatic Egg,Zebra Piggle,7
+Chimerical Egg,Jolly Piggle,7
+Enigmatic Egg,Cheery Piggle,7
+Chimerical Egg,Jovial Piggle,7
+Symmetrical Egg,Gamer Piggle,7
+Equilibrium Egg,Brave Piggle,7
+Symmetrical Egg,Nimble Piggle,7
+Equilibrium Egg,Swift Piggle,7
+Equilibrium Egg,Talented Piggle,9
+Chimerical Egg,Quick Piggle,9
+Lifebloom Egg,Sneaky Piggle,9
+Equilibrium Egg,Perfect Piggle,9
+Chimerical Egg,Quirky Piggle,9
+Lifebloom Egg,Tough Piggle,9
+Equilibrium Egg,Prime Piggle,9
+Chimerical Egg,Funky Piggle,9
+Lifebloom Egg,Sly Piggle,9
+Lifebloom Egg,Potent Piggle,9
+Chimerical Egg,Pepper Piggle,9
+Equilibrium Egg,Superb Piggle,9
+Chimerical Egg,Golden Piggle,7
+Mysterious Egg,Grandpappy Piggle,8
+Mysterious Egg,Grandpa Piggle,8
+Mysterious Egg,Stray Piggle,1
+Necromantic Egg,Zombie Piggle,7
+Enigmatic Egg,Decade Piggle,1
+Jade Egg,Valentine Pig,8
+Equilibrium Egg,Piranha Hunter,10
+Symmetrical Egg,Sorcerer Hunter,7
+Onyx Egg,Finned Assassin,7
+Jade Egg,Wetland Hunter,5
+Evanescent Egg,Pixie Queen,9
+Jade Egg,Pixie Queen,3
+Equilibrium Egg,Harmonious Sprite,8
+Radiant Egg,Burning Pixie,8
+Lifebloom Egg,Pink Pixie,8
+Lifebloom Egg,Rose Pixie,8
+Lifebloom Egg,Fuchsia Pixie,8
+Lifebloom Egg,Roseate Pixie,8
+Lifebloom Egg,Blossom Pixie,8
+Lifebloom Egg,Carnation Pixie,8
+Lifebloom Egg,Cerise Pixie,8
+Lifebloom Egg,Fandango Pixie,8
+Stormsquall Egg,Cloudburst Sprite,8
+Frost Shelled Egg,Polar Bear Cub,8
+Lifebloom Egg,Astromancer's Rat,8
+Frost Shelled Egg,Cosmographer's Rat,8
+Stormsquall Egg,Stargazer's Rat,8
+Necromantic Egg,Avenging Fossil,8
+Mysterious Egg,Greenman Sapling,9
+Transcendental Egg  ,Scrappy Gryphon,8
+Transcendental Egg  ,Plucky Gryphon,8
+Transcendental Egg  ,Snappy Gryphon,8
+Lifebloom Egg,Panda Sproutlings,10
+Lifebloom Egg,Playful Panda Cubs,10
+Lifebloom Egg,Precocious Panda Cubs,10
+Lifebloom Egg,Precious Panda Cubs,10
+Symmetrical Egg,Vibrant Pegasus,8
+Otherworldly Egg,Prismatic Pegasus,8
+Frost Shelled Egg,Handsome Pegasus,8
+Pyromantic Egg,Hearty Pegasus,8
+Enigmatic Egg,Spooky Pegasus,8
+Chimerical Egg,Motley Pegasus,8
+Lifebloom Egg,Pretty Pegasus,8
+Mysterious Egg,Barkerville Hound,6
+Symmetrical Egg,Wargoyle,9
+Fluffy Egg,Beastling,9
+Equilibrium Egg,Blimp Friend,6
+Necromantic Egg,Blimp Sidekick,6
+Pyromantic Egg,Blimp Companion,6
+Frostshelled Egg,Blimp Buddy,6
+Lifebloom Egg,Blimp Ally,6
+Radiant Egg,Blimp Pal,6
+Stormsquall Egg,Blimp Chum,6
+Pyromantic Egg,Red Apple Brudel,6
+Lifebloom Egg,Green Apple Brudel,6
+Enigmatic Egg,Golden Apple Brudel,6
+Winterborn Egg,Disco Buffaloon,9
+Necromantic Egg,Zombee,9
+Lifebloom Egg,Cuddly Capybara,8
+Chimerical Egg,Feral Zorphie,8
+Chimerical Egg,Ravenous Zorphie,8
+Chimerical Egg,Vicious Zorphie,8
+Chimerical Egg,Chipmunk Conductor,8
+Radiant Egg,Chocostein's Monster,7
+Radiant Egg,Stylin' Corgi,8
+Radiant Egg,Hip Corgi,8
+Radiant Egg,Cool Corgi,8
+Mysterious Egg,Rotten Candy,8
+Pyromantic Egg,Booloon,9
+Equilibrium Egg,Decade Dragon,8
+Equilibrium Egg,Decennial Dragon,8
+Jade Egg,Peppy Porpoise,9
+Necromantic Egg,Drama Llama,9
+Lifebloom Egg,Dryad,8
+Mysterious Egg,Spring Chicken,9
+Radiant Egg,Elfvis,6
+Evanescent Egg,Grumpy Gingerman,7
+Onyx Egg,Scare Bear,9
+Maelstrom Egg,Eye Pal,8
+Symmetrical Egg,Feathered Tabby,7
+Stormsquall Egg,Fenris,8
+Necromantic Egg,Wildlands Wolf,9
+Radiant Egg,Fenris,9
+Necromantic Egg,Fenrir,9
+Enigmatic Egg,Fenric,9
+Chimerical Egg,Fossa,8
+Maelstrom Egg,Frankenbunny Bride,9
+Evanescent Egg,Scratchy Frillasaur,8
+Evanescent Egg,Scaly Frillasaur,8
+Evanescent Egg,Snappy Frillasaur,8
+Winterborn Egg,Noble Toad,9
+Stormsquall Egg,Beau Frog,8
+Stormsquall Egg,Spicy Gingerbreadman,7
+Mysterious Egg,Feisty Gingerbreadman,7
+Stormy Egg,Salty Gingerbreadman,7
+Enigmatic Egg,Blue Globulin,3
+Enigmatic Egg,Green Globulin,4
+Enigmatic Egg,Purple Globulin,5
+Blinking Egg,Fairyfly,9
+Evanescent Egg,Coocoonut Bear,8
+Necromantic Egg,Licorice Bear,8
+Pyromantic Egg,Cinamazing Bear,8
+Frost Shelled Egg,Winterfreeze Bear,8
+Lifebloom Egg,Xtreme Lime Bear,8
+Enigmatic Egg,SweetCitrus Bear,8
+Otherworldly Egg,Zazzleberry Bear,8
+Frost-Shelled Egg,Hall Minotaur,9
+Lovely Egg,Ravenwood Class Pet,7
+Equilibrium Egg,Balance Class Pet,9
+Transcendental Egg  ,Death Class Pet,9
+Pyromantic Egg,Fire Class Pet,9
+Frostshelled Egg,Ice Class Pet,9
+Jade Egg,Life Class Pet,9
+Radiant Egg,Myth Class Pet,9
+Maelstrom Egg,Storm Class Pet,9
+Mysterious Egg,Hummingbird�,8
+Chimerical Egg,Balance-ish Frog,9
+Chimerical Egg,Death-ish Frog,9
+Chimerical Egg,Fire-ish Frog,9
+Chimerical Egg,Ice-ish Frog,9
+Chimerical Egg,Life-ish Frog,9
+Chimerical Egg,Myth-ish Frog,9
+Chimerical Egg,Storm-ish Frog,9
+Enigmatic Egg,Fetching Pet Peeve,8
+Symmetrical Egg,Vexing Pet Peeve,9
+Frost-Shelled Egg,Frozen Pet Peeve,9
+Pyromantic Egg,Pet Peeve,8
+Mysterious Egg,Calixco Kitten,0
+Evanescent Egg,Leaping Leprechaun,8
+Stormsquall Egg,Li'l Lemur,8
+Stormsquall Egg,Deep Leviathan,8
+Scruffy Egg,Feisty Lion Cubs,7
+Scruffy Egg,Fearless Lion Cubs,7
+Scruffy Egg,Spirited Lion Cubs,7
+Winterborn Egg,Lord Of Winter,8
+Radiant Egg,Lucky Cat,9
+Symmetrical Egg,Daisy Lumi.,10
+Symmetrical Egg,Daisy Lumi,10
+Symmetrical Egg,Fern Lumi,10
+Symmetrical Egg,Sunny Lumi,10
+Symmetrical Egg,Tulip Lumi,10
+Symmetrical Egg,Violet Lumi,10
+Jade Egg,Light Merryonette,9
+Radiant Egg,Dark Scaryonette,9
+Mysterious Egg,Marshfellow,9
+Chimerical Egg,Meow Wing,7
+Chimerical Egg,Li'l Medusa,8
+Pyromantic Egg,CopyCake,8
+Mysterious Egg,Fun Guy.,9
+Mysterious Egg,Fun Guy,9
+Maelstrom Egg,Friendly Falcon,8
+Otherworldly Egg,Fall Sproutling,10
+Mysterious Egg,Summer Sproutling,9
+Frost-Shelled Egg,Winter Sproutling,9
+Otherworldly Egg,Spring Sproutling,10
+Mysterious Egg,Hurricanine,8
+Mysterious Egg,Owl Protege,9
+Mysterious Egg,Owl Protege,9
+Onyx Egg,Springing Chicken,7
+Jade Egg,Peace Dove,9
+Frost-Shelled Egg,Dazzlefeather,8
+Mysterious Egg,Pet Coconut,8
+Evanescent Egg,Merry Prrresent,6
+Winterborn Egg,Winter Prrresent,6
+Necromantic Egg,Festive Prrresent,6
+Enigmatic Egg,Alien Piggle,5
+Stormsquall Egg,Paleo Piggle,5
+Maelstrom Egg,Squirreligig,9
+Jade Egg,Puffy Packfish,9
+Equilibrium Egg,Steady Null Dragon,8
+Otherworldly Egg,Deadly Null Dragon,8
+Pyromantic Egg,Fiery Null Dragon,8
+Frost-Shelled Egg,Frigid Null Dragon,8
+Jade Egg,Lively Null Dragon,8
+Evanescent Egg,Mythic Null Dragon,8
+Stormsquall Egg,Stormy Null Dragon,8
+Chimerical Egg,Iron Ram,7
+Jade Egg,Little Ratatoskr,9
+Symmetrical Egg,Pup Prodigy,8
+Pyromantic Egg,Rambler's Runner,8
+Otherworldly Egg,Wrangler's Runner,8
+Winterborn Egg,Rancher's Runner,8
+Winterborn Egg,Buddy Bot,8
+Symmetrical Egg,Sabertooth,8
+Mysterious Egg,Mini Sani-Bot,7
+Radiant Egg,Sokar's Scarab,8
+Radiant Egg,Setesh's Scarab,8
+Radiant Egg,Apophis' Scarab,8
+Symmetrical Egg,Ravenwood Piggle,9
+Onyx Egg,Dutiful Terrier,8
+Stormsquall Egg,Loyal Terrier,8
+Jade Egg,Trusty Terrier,8
+Otherworldly Egg,Sea Courser,9
+Moist Egg,Sea Destrier,9
+Otherworldly Egg,Sea Charger,9
+Lifebloom Egg,Plucky Clover,8
+Symmetrical Egg,Mini Balance Shark,8
+Onyx Egg,Mini Death Shark,8
+Pyromantic Egg,Mini Fire Shark,8
+Otherworldly Egg,Mini Ice Shark,8
+Jade Egg,Mini Life Shark,8
+Chimerical Egg,Mini Myth Shark,8
+Stormsquall Egg,Mini Storm Shark,8
+Pyromantic Egg,Snowflake,8
+Otherworldly Egg,Forge Goblin,8
+Enigmatic Egg,Web Master,8
+Stormsquall Egg,Shadow Webling,7
+Maelstrom Egg,Thunderzilla,8
+Chimerical Egg,Sinister Strix,8
+Otherworldly Egg,Malefic Strix,8
+Moist Egg,Ominous Strix,8
+Onyx Egg,Mystic Plushie,9
+Jade Egg,Fantastic Plushie,9
+Otherworldly Egg,Majestic Plushie,9
+Radiant Egg,Golden Sun,9
+Pyromantic Egg,Sun Serpent,8
+Radiant Egg,Red Hot Sun,9
+Jade Egg,Tanuki,8
+Equilibrium Egg,Grim Goatling,6
+Lifebloom Egg,Glum Goatling,6
+Necromantic Egg,Gloomy Goatling,7
+Maelstrom Egg,Typhoon Kahuna,8
+Rotten Egg,Litter Critter,2
+Chimerical Egg,New Year's Treant,6
+Chimerical Egg,Balance Wartle,9
+Onyx Egg,Death Wartle,9
+Hot Egg,Fire Wartle,9
+Winterborn Egg,Ice Wartle,9
+Jade Egg,Life Wartle,9
+Mysterious Egg,Myth Wartle,9
+Stormsquall Egg,Storm Wartle,9
+Transcendental Egg  ,Tentacula,8
+Chimerical Egg,Wooden Duck,8
+Evanescent Egg,Wooden Mallard,8
+Frost-Shelled Egg,Wooden Quacker,8
+Stormsquall Egg,Wooden Scoter,8
+Equilibrium Egg,Auspicious Ox,9
+Equilibrium Egg,Auspicious Tiger,9
+Mysterious Egg,Ghoulish Macawbre,9
+Mysterious Egg,Spooky Macawbre,9
+Mysterious Egg,Morbid Macawbre,9
+Symmetrical Egg,Dragon,1
+Maelstrom Egg,Firestorm Quetzal,10
+Equilibrium Egg,Harmonic Quetzal,10
+Onyx Egg,Grave Quetzal,10
+Pyromantic Egg,Inferno Quetzal,10
+Frost Shelled Egg,Icestorm Quetzal,10
+Lifebloom Egg,Vital Quetzal,10
+Chimerical Egg,Fabled Quetzal,10
+Evanescent Egg,Ram Warrior,8
+Mysterious Egg,Rat Magician,5
+Symmetrical Egg,Dastardly Magician,7
+Evanescent Egg,Brown Rat Magician,4
+Mysterious Egg,Blustering Scamp,5
+Otherworldly Egg,White Rat Magician,8
+Mysterious Egg,Raven,7
+Otherworldly Egg,Red Cap,8
+Symmetrical Egg,Red Panda,6
+Evanescent Egg,Road Hog,8
+Mysterious Egg,Pet Rock,6
+Mysterious Egg,Trolling Stone,6
+Lifebloom Egg,Leaf Foot,8
+Necromantic Egg,Forlorn Sabertooth,8
+Mysterious Egg,Frostfang,8
+Lifebloom Egg,Wild Sabertooth,8
+Chimerical Egg,Mystic Sabertooth,8
+Winterborn Egg,Rescue Rover,9
+Evanescent Egg,Inferno Salamander,9
+Otherworldly Egg,Fire Salamander,5
+Frost Shelled Egg,Ice Salamander,2
+Evanescent Egg,Storm Salamander,6
+Jade Egg,Samoorai,9
+Spellwrit Egg,Spellwrit Ronin,9
+Mysterious Egg,Sand Worm Larva,0
+Necromantic Egg,Dark Worm Larva,0
+Jade Egg,Satyr,8
+Jade Egg,Wanderer,9
+Jade Egg,Stormdancer,9
+Symmetrical Egg,Scarab,6
+Onyx Egg,Death Scarab,7
+Onyx Egg,Grim Scarab,7
+Otherworldly Egg,Life Scarab,5
+Necromantic Egg,Scarecrow,9
+Frost Shelled Egg,Tundra Warden,9
+Jade Egg,Crop Watcher,9
+Maelstrom Egg,Stormcaller,9
+Symmetrical Egg,Scorpion,6
+Radiant Egg,Burnt Scorpion,6
+Radiant Egg,Chilled Scorpion,6
+Mysterious Egg,Superstitious Scorpion,6
+Pyromantic Egg,Sea Dragon,10
+Lifebloom Egg,Seraph,8
+Necromantic Egg,Tempest,9
+Pyromantic Egg,Flamedance Seraph,8
+Jade Egg,Frostcaller,9
+Evanescent Egg,Dreamsong Seraph,8
+Mysterious Egg,Yuletide Spirit,8
+Chimerical Egg,Sheep,3
+Chimerical Egg,Raid Balance,3
+Chimerical Egg,Raid Death,3
+Chimerical Egg,Raid Fire,3
+Chimerical Egg,Raid Ice,3
+Chimerical Egg,Raid Life,3
+Chimerical Egg,Raid Myth,3
+Chimerical Egg,Raid Storm,3
+Necromantic Egg,Onyx Shenlong Dragon,9
+Jade Egg,Jade Shenlong Dragon,9
+Radiant Egg,Ruby Shenlong Dragon,9
+Symmetrical Egg,Ivory Shenlong Dragon,9
+Lifebloom Egg,Amber Shenlong Dragon,9
+Stormsquall Egg,Li'l Siren,7
+Frost-Shelled Egg,Ice Floe Siren,7
+Necromantic Egg,Harrowed Bones,7
+Onyx Egg,Armored Skeleton,6
+Otherworldly Egg,Skeletal Warrior,8
+Otherworldly Egg,Skeletal Brigand,8
+Otherworldly Egg,Skeletal Sneak,8
+Otherworldly Egg,Skeletal Scoundrel,8
+Otherworldly Egg,Skeletal Skulk,8
+Otherworldly Egg,Skeletal Rogue,8
+Otherworldly Egg,Skeletal Raider,8
+Otherworldly Egg,Skeletal Marauder,8
+Onyx Egg,Golden Armored Skeleton,7
+Onyx Egg,Skeletal Honor Guard,7
+Onyx Egg,Royal Armored Skeleton,7
+Onyx Egg,Skeletal Champion,7
+Onyx Egg,Gilded Skeleton,7
+Onyx Egg,Regal Skeleton,7
+Onyx Egg,Skeletal Gladiator,7
+Onyx Egg,Skeletal Legionnaire,7
+Necromantic Egg,Skeletal Knight,7
+Chimerical Egg,Skink,8
+Winterborn Egg,Sailback Skink,8
+Otherworldly Egg,Mander,5
+Enigmatic Egg,Smith,9
+Frost Shelled Egg,Snowball,9
+Otherworldly Egg,Arctic Serpent,6
+Mysterious Egg,Snow Serpent,5
+Otherworldly Egg,Fire Serpent,8
+Mysterious Egg,Storm Serpent,6
+Winterborn Egg,White Winter Owl,9
+Mysterious Egg,Chieftain's Owl,9
+Otherworldly Egg,Lava Spider,7
+Pyromantic Egg,Ash Spider,5
+Mysterious Egg,Black Spider,6
+Onyx Egg,Brown Spider,3
+Evanescent Egg,Mirth Spider,3
+Mysterious Egg,Brown Recluse Spider,3
+Evanescent Egg,Crystal Spider,4
+Frost Shelled Egg,Blue Spider,6
+Winterborn Egg,Green Spider,5
+Winterborn Egg,Purple Spider,7
+Otherworldly Egg,Queen Spider,8
+Mysterious Egg,Spider Golem,9
+Mysterious Egg,Toy Golem,9
+Stormsquall Egg,Horned Monkey Spider,3
+Mysterious Egg,Magma Spider,7
+Maelstrom Egg,Starburst Spider,3
+Stormsquall Egg,Spinyfish,9
+Evanescent Egg,Sprite,5
+Otherworldly Egg,Midnight Sprite,6
+Evanescent Egg,Dark Sprite,5
+Otherworldly Egg,Myth Sprite,4
+Enigmatic Egg,Rattlebones's Sprite,4
+Chimerical Egg,Squirerel,9
+Frost Shelled Egg,Starfish,9
+Enigmatic Egg,Stegosaurus,9
+Radiant Egg,Emberstone Tiger,8
+Mysterious Egg,Ivanenko's Tiger,8
+Stormsquall Egg,Tailstorm Pantera,7
+Maelstrom Egg,Stormzilla,8
+Maelstrom Egg,Fatezilla,9
+Stormsquall Egg,Grimzilla,9
+Maelstrom Egg,Burninator,9
+Radiant Egg,Firezilla,8
+Pyromantic Egg,Flamezilla,8
+Radiant Egg,Crimsonzilla,8
+Pyromantic Egg,Burnzilla,8
+Pyromantic Egg,Hotzilla,9
+Pyromantic Egg,Scorchzilla,9
+Pyromantic Egg,Infernozilla,9
+Pyromantic Egg,Blazezilla,9
+Stormsquall Egg,Frostzilla,9
+Maelstrom Egg,Lifezilla,9
+Stormsquall Egg,Mythzilla,9
+Winterborn Egg,Snow Beast,7
+Enigmatic Egg,Mythic Beast,9
+Lifebloom Egg,Forest Beast,8
+Otherworldly Egg,Shadow Beast,8
+Equilibrium Egg,Desert Beast,6
+Stormsquall Egg,Spark Beast,7
+Radiant Egg,Blaze Beast,7
+Chimerical Egg,Strange Beast,6
+Mysterious Egg,Firewing,5
+Otherworldly Egg,Sun Bird,6
+Necromantic Egg,Dark Crow,8
+Evanescent Egg,Ice Bird,5
+Stormsquall Egg,Storm Bird,6
+Lifebloom Egg,Tree Serpent,8
+Chimerical Egg,Fabled Serpent,8
+Otherworldly Egg,Enchanted Armament,9
+Duelist's Egg,Balance Armaments,9
+Duelist's Egg,Death Armaments,9
+Duelist's Egg,Fire Armaments,9
+Duelist's Egg,Ice Armaments,9
+Duelist's Egg,Life Armaments,9
+Duelist's Egg,Myth Armaments,9
+Duelist's Egg,Storm Armaments,9
+Radiant Egg,Tarantula Hawk,8
+Otherworldly Egg,Fast Hatcher,9
+Equilibrium Egg,Therizinosaurus,9
+Equilibrium Egg,Tiger,9
+Mysterious Egg,White Tiger,9
+Pyromantic Egg,Tiki Kahuna,8
+Mysterious Egg,Toaddle,9
+Enigmatic Egg,Toucan't,8
+Mysterious Egg,Treant,6
+Mysterious Egg,Death Treant,9
+Lifebloom Egg,Woodland Haunter,9
+Mysterious Egg,Scourge Treant,9
+Mysterious Egg,Mosseaten Treant,9
+Mysterious Egg,Withered Treant,9
+Mysterious Egg,Blighted Treant,9
+Mysterious Egg,Deadroot Treant,9
+Mysterious Egg,Rotted Treant,9
+Mysterious Egg,Afflicted Treant,9
+Lifebloom Egg,Firewalker,9
+Chimerical Egg,Myth Treant,6
+Lifebloom Egg,Traveller,9
+Stormsquall Egg,Triton,9
+Necromantic Egg,Mist Triton,9
+Frost Shelled Egg,Arctic Triton,9
+Jade Egg,Trojan Horse,9
+Otherworldly Egg,Tough Troll,5
+Otherworldly Egg,Troll,6
+Evanescent Egg,Death Troll,7
+Mysterious Egg,Life Troll,5
+Radiant Egg,Krokopatra's Troll,5
+Evanescent Egg,Mustard Troll,7
+Jade Egg,Sea Turtle,7
+Necromantic Egg,Ianthine Spectre,9
+Symmetrical Egg,Darkreaver,9
+Symmetrical Egg,Reaver,9
+Winterborn Egg,Spectre Lord,9
+Onyx Egg,Ghast,9
+Radiant Egg,Crimson Spectre,9
+Necromantic Egg,Spectre of the Brocken,9
+Jade Egg,Unicorn,1
+Lifebloom Egg,Grove Unicorn,8
+Otherworldly Egg,Nightmare,9
+Lifebloom Egg,Fog Unicorn,8
+Necromantic Egg,Vampire,9
+Mysterious Egg,Vampire Squirrel,9
+Radiant Egg,Velociraptor,9
+Frost Shelled Egg,Wayward Minstrel,8
+Jade Egg,Mischievous Minstrel,9
+Onyx Egg,Weasel Minstrel,7
+Radiant Egg,Charming Minstrel,8
+Winterborn Egg,Nodori Winged Ram,7
+Onyx Egg,Diseased Wildclaw,6
+Jade Egg,Primal Wildclaw,6
+Mysterious Egg,Silverback Wildclaw,9
+Pyromantic Egg,Wildfire Treant,8
+Otherworldly Egg,Maple Moose,8
+Stormsquall Egg,Wolfhound,8
+Jade Egg,Blood Hound,8
+Onyx Egg,Hunter's Hound,8
+Mysterious Egg,Warden's Icehound,8
+Chimerical Egg,Tricky Wildclaw,8
+Enigmatic Egg,Savage Wildclaw,8
+Chimerical Egg,Sturdy Wildclaw,8
+Enigmatic Egg,Helpful Wildclaw,8
+Enigmatic Egg,Supportive Wildclaw,9
+Enigmatic Egg,Witty Wildclaw,9
+Enigmatic Egg,Rowdy Wildclaw,9
+Enigmatic Egg,Clever Wildclaw,9
+Chimerical Egg,Jungle Wildclaw,8
+Spellwrit Egg,Spellwrit Wildclaw,8
+Necromantic Egg,Wraith,8
+Necromantic Egg,Reaper,9
+Onyx Egg,Archfiend,9
+Necromantic Egg,Frostlord,9
+Radiant Egg,Fire Wyvern,9
+Frost Shelled Egg,Ice Wyvern,9
+Jade Egg,Forest Crawler,9
